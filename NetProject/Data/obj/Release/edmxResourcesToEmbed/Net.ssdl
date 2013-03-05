@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NetModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="NetModelStoreContainer">
+    <EntitySet Name="Table5" EntityType="NetModel.Store.Table5" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Table5">
+    <Key>
+      <PropertyRef Name="Date" />
+      <PropertyRef Name="Symbol" />
+    </Key>
+    <Property Name="Date" Type="datetime" Nullable="false" />
+    <Property Name="Symbol" Type="nchar" Nullable="false" MaxLength="10" />
+    <Property Name="Open" Type="numeric" />
+    <Property Name="High" Type="numeric" />
+    <Property Name="Low" Type="numeric" />
+    <Property Name="Close" Type="numeric" />
+    <Property Name="Volume" Type="numeric" />
+    <Property Name="AdjClose" Type="numeric" />
+    <Property Name="Returns" Type="numeric" />
+    <Property Name="RollingAverage" Type="numeric" />
+    <Property Name="RollingStd" Type="numeric" />
+    <Property Name="ZscoreStatic" Type="numeric" />
+    <Property Name="ZscoreRolling" Type="numeric" />
+    <Property Name="PositionStatic" Type="numeric" />
+    <Property Name="PNLstatic" Type="numeric" />
+    <Property Name="CumPNLstatic" Type="numeric" />
+    <Property Name="RealPNLstatic" Type="numeric" />
+    <Property Name="CumRealPNLstatic" Type="numeric" />
+    <Property Name="PositionsStaticHold" Type="numeric" />
+    <Property Name="PNLstaticHold" Type="numeric" />
+    <Property Name="CumPNLstaticHold" Type="numeric" />
+    <Property Name="RealPNLstaticHold" Type="numeric" />
+    <Property Name="CumRealPNLstaticHold" Type="numeric" />
+    <Property Name="PositionsRoll" Type="numeric" />
+    <Property Name="PNLroll" Type="numeric" />
+    <Property Name="CumPNLroll" Type="numeric" />
+    <Property Name="RealPNLroll" Type="numeric" />
+    <Property Name="CumRealPNLroll" Type="numeric" />
+    <Property Name="PositionsRollHold" Type="numeric" />
+    <Property Name="PNLrollHold" Type="numeric" />
+    <Property Name="CumPNLrollHold" Type="numeric" />
+    <Property Name="RealPNLrollHold" Type="numeric" />
+    <Property Name="CumRealPNLrollHold" Type="numeric" />
+  </EntityType>
+  <Function Name="DeleteData" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Symbol" Type="nchar" Mode="In" />
+  </Function>
+</Schema>

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{7C88CD5C-A1E8-4292-A086-283A5DF592E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{92065FAA-A695-4654-907A-00123DE331FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTMLReportEngineTestApp", "HTMLReportEngine_demo\HTMLReportEngineTestApp.csproj", "{3D6EA74D-2F8A-476E-BD02-19F81D1371AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C88CD5C-A1E8-4292-A086-283A5DF592E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C88CD5C-A1E8-4292-A086-283A5DF592E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C88CD5C-A1E8-4292-A086-283A5DF592E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C88CD5C-A1E8-4292-A086-283A5DF592E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92065FAA-A695-4654-907A-00123DE331FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92065FAA-A695-4654-907A-00123DE331FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92065FAA-A695-4654-907A-00123DE331FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92065FAA-A695-4654-907A-00123DE331FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D6EA74D-2F8A-476E-BD02-19F81D1371AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6EA74D-2F8A-476E-BD02-19F81D1371AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6EA74D-2F8A-476E-BD02-19F81D1371AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6EA74D-2F8A-476E-BD02-19F81D1371AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

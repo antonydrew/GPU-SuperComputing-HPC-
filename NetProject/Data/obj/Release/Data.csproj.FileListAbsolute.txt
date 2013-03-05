@@ -1,0 +1,24 @@
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Data\bin\Release\Data.dll.config
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Data\bin\Release\Data.dll
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Data\bin\Release\Data.pdb
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Data\bin\Release\EntityFramework.dll
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Data\bin\Release\Test.exe
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Data\bin\Release\HTMLReportEngineUI.exe
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Data\bin\Release\HTMLReportEngine.dll
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Data\bin\Release\Test.pdb
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Data\bin\Release\EntityFramework.xml
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Data\obj\Release\Data.csprojResolveAssemblyReference.cache
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Data\obj\Release\Data.dll
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Data\obj\Release\Data.pdb
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Data\bin\Release\Data.dll.config
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Data\bin\Release\Data.dll
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Data\bin\Release\Data.pdb
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Data\bin\Release\EntityFramework.dll
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Data\bin\Release\Test.exe
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Data\bin\Release\HTMLReportEngineUI.exe
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Data\bin\Release\HTMLReportEngine.dll
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Data\bin\Release\Test.pdb
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Data\bin\Release\EntityFramework.xml
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Data\obj\Release\Data.csprojResolveAssemblyReference.cache
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Data\obj\Release\Data.dll
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Data\obj\Release\Data.pdb

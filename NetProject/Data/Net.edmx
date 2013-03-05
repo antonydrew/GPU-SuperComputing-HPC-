@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="NetModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="NetModelStoreContainer">
+          <EntitySet Name="Table5" EntityType="NetModel.Store.Table5" store:Type="Tables" Schema="dbo" />
+        </EntityContainer>
+        <EntityType Name="Table5">
+          <Key>
+            <PropertyRef Name="Date" />
+            <PropertyRef Name="Symbol" />
+          </Key>
+          <Property Name="Date" Type="datetime" Nullable="false" />
+          <Property Name="Symbol" Type="nchar" Nullable="false" MaxLength="10" />
+          <Property Name="Open" Type="numeric" />
+          <Property Name="High" Type="numeric" />
+          <Property Name="Low" Type="numeric" />
+          <Property Name="Close" Type="numeric" />
+          <Property Name="Volume" Type="numeric" />
+          <Property Name="AdjClose" Type="numeric" />
+          <Property Name="Returns" Type="numeric" />
+          <Property Name="RollingAverage" Type="numeric" />
+          <Property Name="RollingStd" Type="numeric" />
+          <Property Name="ZscoreStatic" Type="numeric" />
+          <Property Name="ZscoreRolling" Type="numeric" />
+          <Property Name="PositionStatic" Type="numeric" />
+          <Property Name="PNLstatic" Type="numeric" />
+          <Property Name="CumPNLstatic" Type="numeric" />
+          <Property Name="RealPNLstatic" Type="numeric" />
+          <Property Name="CumRealPNLstatic" Type="numeric" />
+          <Property Name="PositionsStaticHold" Type="numeric" />
+          <Property Name="PNLstaticHold" Type="numeric" />
+          <Property Name="CumPNLstaticHold" Type="numeric" />
+          <Property Name="RealPNLstaticHold" Type="numeric" />
+          <Property Name="CumRealPNLstaticHold" Type="numeric" />
+          <Property Name="PositionsRoll" Type="numeric" />
+          <Property Name="PNLroll" Type="numeric" />
+          <Property Name="CumPNLroll" Type="numeric" />
+          <Property Name="RealPNLroll" Type="numeric" />
+          <Property Name="CumRealPNLroll" Type="numeric" />
+          <Property Name="PositionsRollHold" Type="numeric" />
+          <Property Name="PNLrollHold" Type="numeric" />
+          <Property Name="CumPNLrollHold" Type="numeric" />
+          <Property Name="RealPNLrollHold" Type="numeric" />
+          <Property Name="CumRealPNLrollHold" Type="numeric" />
+        </EntityType>
+        <Function Name="DeleteData" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="Symbol" Type="nchar" Mode="In" />
+        </Function>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="NetModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="NetEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Table5" EntityType="NetModel.Table5" />
+          <FunctionImport Name="DeleteData">
+            <Parameter Name="Symbol" Mode="In" Type="String" />
+          </FunctionImport>
+        </EntityContainer>
+        <EntityType Name="Table5">
+          <Key>
+            <PropertyRef Name="Date" />
+            <PropertyRef Name="Symbol" />
+          </Key>
+          <Property Name="Date" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="Symbol" Type="String" Nullable="false" MaxLength="10" Unicode="true" FixedLength="true" />
+          <Property Name="Open" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="High" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="Low" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="Close" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="Volume" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="AdjClose" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="Returns" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="RollingAverage" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="RollingStd" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="ZscoreStatic" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="ZscoreRolling" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="PositionStatic" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="PNLstatic" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="CumPNLstatic" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="RealPNLstatic" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="CumRealPNLstatic" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="PositionsStaticHold" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="PNLstaticHold" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="CumPNLstaticHold" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="RealPNLstaticHold" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="CumRealPNLstaticHold" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="PositionsRoll" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="PNLroll" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="CumPNLroll" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="RealPNLroll" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="CumRealPNLroll" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="PositionsRollHold" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="PNLrollHold" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="CumPNLrollHold" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="RealPNLrollHold" Type="Decimal" Precision="18" Scale="0" />
+          <Property Name="CumRealPNLrollHold" Type="Decimal" Precision="18" Scale="0" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="NetModelStoreContainer" CdmEntityContainer="NetEntities">
+          <EntitySetMapping Name="Table5">
+            <EntityTypeMapping TypeName="NetModel.Table5">
+              <MappingFragment StoreEntitySet="Table5">
+                <ScalarProperty Name="Date" ColumnName="Date" />
+                <ScalarProperty Name="Symbol" ColumnName="Symbol" />
+                <ScalarProperty Name="Open" ColumnName="Open" />
+                <ScalarProperty Name="High" ColumnName="High" />
+                <ScalarProperty Name="Low" ColumnName="Low" />
+                <ScalarProperty Name="Close" ColumnName="Close" />
+                <ScalarProperty Name="Volume" ColumnName="Volume" />
+                <ScalarProperty Name="AdjClose" ColumnName="AdjClose" />
+                <ScalarProperty Name="Returns" ColumnName="Returns" />
+                <ScalarProperty Name="RollingAverage" ColumnName="RollingAverage" />
+                <ScalarProperty Name="RollingStd" ColumnName="RollingStd" />
+                <ScalarProperty Name="ZscoreStatic" ColumnName="ZscoreStatic" />
+                <ScalarProperty Name="ZscoreRolling" ColumnName="ZscoreRolling" />
+                <ScalarProperty Name="PositionStatic" ColumnName="PositionStatic" />
+                <ScalarProperty Name="PNLstatic" ColumnName="PNLstatic" />
+                <ScalarProperty Name="CumPNLstatic" ColumnName="CumPNLstatic" />
+                <ScalarProperty Name="RealPNLstatic" ColumnName="RealPNLstatic" />
+                <ScalarProperty Name="CumRealPNLstatic" ColumnName="CumRealPNLstatic" />
+                <ScalarProperty Name="PositionsStaticHold" ColumnName="PositionsStaticHold" />
+                <ScalarProperty Name="PNLstaticHold" ColumnName="PNLstaticHold" />
+                <ScalarProperty Name="CumPNLstaticHold" ColumnName="CumPNLstaticHold" />
+                <ScalarProperty Name="RealPNLstaticHold" ColumnName="RealPNLstaticHold" />
+                <ScalarProperty Name="CumRealPNLstaticHold" ColumnName="CumRealPNLstaticHold" />
+                <ScalarProperty Name="PositionsRoll" ColumnName="PositionsRoll" />
+                <ScalarProperty Name="PNLroll" ColumnName="PNLroll" />
+                <ScalarProperty Name="CumPNLroll" ColumnName="CumPNLroll" />
+                <ScalarProperty Name="RealPNLroll" ColumnName="RealPNLroll" />
+                <ScalarProperty Name="CumRealPNLroll" ColumnName="CumRealPNLroll" />
+                <ScalarProperty Name="PositionsRollHold" ColumnName="PositionsRollHold" />
+                <ScalarProperty Name="PNLrollHold" ColumnName="PNLrollHold" />
+                <ScalarProperty Name="CumPNLrollHold" ColumnName="CumPNLrollHold" />
+                <ScalarProperty Name="RealPNLrollHold" ColumnName="RealPNLrollHold" />
+                <ScalarProperty Name="CumRealPNLrollHold" ColumnName="CumRealPNLrollHold" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <FunctionImportMapping FunctionImportName="DeleteData" FunctionName="NetModel.Store.DeleteData" />
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

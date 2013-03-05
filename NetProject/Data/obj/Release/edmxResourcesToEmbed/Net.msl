@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="NetModelStoreContainer" CdmEntityContainer="NetEntities">
+    <EntitySetMapping Name="Table5">
+      <EntityTypeMapping TypeName="NetModel.Table5">
+        <MappingFragment StoreEntitySet="Table5">
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Symbol" ColumnName="Symbol" />
+          <ScalarProperty Name="Open" ColumnName="Open" />
+          <ScalarProperty Name="High" ColumnName="High" />
+          <ScalarProperty Name="Low" ColumnName="Low" />
+          <ScalarProperty Name="Close" ColumnName="Close" />
+          <ScalarProperty Name="Volume" ColumnName="Volume" />
+          <ScalarProperty Name="AdjClose" ColumnName="AdjClose" />
+          <ScalarProperty Name="Returns" ColumnName="Returns" />
+          <ScalarProperty Name="RollingAverage" ColumnName="RollingAverage" />
+          <ScalarProperty Name="RollingStd" ColumnName="RollingStd" />
+          <ScalarProperty Name="ZscoreStatic" ColumnName="ZscoreStatic" />
+          <ScalarProperty Name="ZscoreRolling" ColumnName="ZscoreRolling" />
+          <ScalarProperty Name="PositionStatic" ColumnName="PositionStatic" />
+          <ScalarProperty Name="PNLstatic" ColumnName="PNLstatic" />
+          <ScalarProperty Name="CumPNLstatic" ColumnName="CumPNLstatic" />
+          <ScalarProperty Name="RealPNLstatic" ColumnName="RealPNLstatic" />
+          <ScalarProperty Name="CumRealPNLstatic" ColumnName="CumRealPNLstatic" />
+          <ScalarProperty Name="PositionsStaticHold" ColumnName="PositionsStaticHold" />
+          <ScalarProperty Name="PNLstaticHold" ColumnName="PNLstaticHold" />
+          <ScalarProperty Name="CumPNLstaticHold" ColumnName="CumPNLstaticHold" />
+          <ScalarProperty Name="RealPNLstaticHold" ColumnName="RealPNLstaticHold" />
+          <ScalarProperty Name="CumRealPNLstaticHold" ColumnName="CumRealPNLstaticHold" />
+          <ScalarProperty Name="PositionsRoll" ColumnName="PositionsRoll" />
+          <ScalarProperty Name="PNLroll" ColumnName="PNLroll" />
+          <ScalarProperty Name="CumPNLroll" ColumnName="CumPNLroll" />
+          <ScalarProperty Name="RealPNLroll" ColumnName="RealPNLroll" />
+          <ScalarProperty Name="CumRealPNLroll" ColumnName="CumRealPNLroll" />
+          <ScalarProperty Name="PositionsRollHold" ColumnName="PositionsRollHold" />
+          <ScalarProperty Name="PNLrollHold" ColumnName="PNLrollHold" />
+          <ScalarProperty Name="CumPNLrollHold" ColumnName="CumPNLrollHold" />
+          <ScalarProperty Name="RealPNLrollHold" ColumnName="RealPNLrollHold" />
+          <ScalarProperty Name="CumRealPNLrollHold" ColumnName="CumRealPNLrollHold" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="DeleteData" FunctionName="NetModel.Store.DeleteData" />
+  </EntityContainerMapping>
+</Mapping>

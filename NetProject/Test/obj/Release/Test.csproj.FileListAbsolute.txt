@@ -1,0 +1,32 @@
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Test\bin\Release\Test.exe.config
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Test\obj\Release\Test.csproj.ResolveComReference.cache
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Test\bin\Release\Test.exe
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Test\bin\Release\Test.pdb
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Test\bin\Release\Data.dll
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Test\bin\Release\EntityFramework.dll
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Test\bin\Release\HTMLReportEngine.dll
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Test\bin\Release\HTMLReportEngineUI.exe
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Test\bin\Release\Data.pdb
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Test\bin\Release\EntityFramework.xml
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Test\obj\Release\Test.csprojResolveAssemblyReference.cache
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Test\obj\Release\Test.Form1.resources
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Test\obj\Release\Test.Properties.Resources.resources
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Test\obj\Release\Test.csproj.GenerateResource.Cache
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Test\obj\Release\Test.exe
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject\Test\obj\Release\Test.pdb
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Test\bin\Release\Test.exe.config
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Test\obj\Release\Test.csproj.ResolveComReference.cache
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Test\obj\Release\Test.exe
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Test\obj\Release\Test.pdb
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Test\bin\Release\Test.exe
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Test\bin\Release\Test.pdb
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Test\bin\Release\Data.dll
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Test\bin\Release\EntityFramework.dll
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Test\bin\Release\HTMLReportEngine.dll
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Test\bin\Release\HTMLReportEngineUI.exe
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Test\bin\Release\Data.pdb
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Test\bin\Release\EntityFramework.xml
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Test\obj\Release\Test.csprojResolveAssemblyReference.cache
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Test\obj\Release\Test.Form1.resources
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Test\obj\Release\Test.Properties.Resources.resources
+C:\Users\Xtreme\Documents\Visual Studio 2012\Projects\NetProject - Copy\Test\obj\Release\Test.csproj.GenerateResource.Cache

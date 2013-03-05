@@ -1,0 +1,9 @@
+C:\Users\Xtreme\Documents\Microsoft Solver Foundation\Samples\SolverFoundationServices\C#\QP\obj\Debug\Microsoft.SolverFoundation.Samples.Form1.resources
+C:\Users\Xtreme\Documents\Microsoft Solver Foundation\Samples\SolverFoundationServices\C#\QP\obj\Debug\QuadraticPortfolio.Properties.Resources.resources
+C:\Users\Xtreme\Documents\Microsoft Solver Foundation\Samples\SolverFoundationServices\C#\QP\obj\Debug\QuadraticPortfolio.csproj.GenerateResource.Cache
+C:\Users\Xtreme\Documents\Microsoft Solver Foundation\Samples\SolverFoundationServices\C#\QP\bin\Debug\QuadraticPortfolio.exe
+C:\Users\Xtreme\Documents\Microsoft Solver Foundation\Samples\SolverFoundationServices\C#\QP\bin\Debug\QuadraticPortfolio.pdb
+C:\Users\Xtreme\Documents\Microsoft Solver Foundation\Samples\SolverFoundationServices\C#\QP\bin\Debug\TemplateInstallCustomAction.dll
+C:\Users\Xtreme\Documents\Microsoft Solver Foundation\Samples\SolverFoundationServices\C#\QP\obj\Debug\QuadraticPortfolio.csprojResolveAssemblyReference.cache
+C:\Users\Xtreme\Documents\Microsoft Solver Foundation\Samples\SolverFoundationServices\C#\QP\obj\Debug\QuadraticPortfolio.exe
+C:\Users\Xtreme\Documents\Microsoft Solver Foundation\Samples\SolverFoundationServices\C#\QP\obj\Debug\QuadraticPortfolio.pdb
