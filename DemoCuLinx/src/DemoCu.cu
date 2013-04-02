@@ -22,7 +22,7 @@
 #define PATH "/home/xtreme/cuda-workspace/DemoCu/"
 #define LOOKBACK 1597		// 1597-987-610-377-144-89 fibos rolling optimization historical period
 #define STEP 377			// or 89 fibos step forward in time period for next rolling optimization
-#define NUMI 1				//up to 27 number of markets
+#define NUMI 27				//up to 27 number of markets
 
 long f_line(FILE *f) ;
 FILE * f_openr( char *filer);
@@ -49,8 +49,8 @@ int main(int argc, char **argv){
 
 	double pp[] = { 42000.00, 42000.00, 50.00, 20.00, 100.00, 100.00, 10.00, 25.00, 5.00, 1000.00, 1000.00, 2000.00, 1000.00, 2500.00, 100.00, 25000.00, 5000.00, 50.00, 100000.00, 125000.00, 125000.00, 125000.00, 62500.00, 50.00, 1000.00, 10000.00, 50.00 };
 	char *marks[] = {"RBOB","HO","SP", "ND", "EMD", "TF", "FESX", "FDAX", "NK", "US", "TY", "TU", "FGBL", "ED", "GC", "HG", "SI", "PL", "AD", "EC", "SF", "JY", "BP", "S", "CL", "NG", "C"};
-	char *dfiles[] = {PATH"data0.dat",PATH"data1.dat",PATH"data2.dat",PATH"data3.dat",PATH"data4.dat",PATH"data5.dat","c:\\data6.dat",PATH"data7.dat",PATH"data8.dat",PATH"data9.dat",PATH"data10.dat",PATH"data11.dat",PATH"data12.dat",PATH"data13.dat",
-		PATH"data14.dat",PATH"data15.dat",PATH"data16.dat",PATH"data17.dat",PATH"\\data18.dat",PATH"data19.dat",PATH"data20.dat",PATH"data21.dat",PATH"data22.dat",PATH"data23.dat",PATH"data24.dat",PATH"data25.dat",PATH"data26.dat"};
+	char *dfiles[] = {PATH"data0.dat",PATH"data1.dat",PATH"data2.dat",PATH"data3.dat",PATH"data4.dat",PATH"data5.dat",PATH"data6.dat",PATH"data7.dat",PATH"data8.dat",PATH"data9.dat",PATH"data10.dat",PATH"data11.dat",PATH"data12.dat",PATH"data13.dat",
+		PATH"data14.dat",PATH"data15.dat",PATH"data16.dat",PATH"data17.dat",PATH"data18.dat",PATH"data19.dat",PATH"data20.dat",PATH"data21.dat",PATH"data22.dat",PATH"data23.dat",PATH"data24.dat",PATH"data25.dat",PATH"data26.dat"};
 
 	clock_t t1, t2; float diff; char sources[60],source[60],line[100]; long end, endf;
 	double a[] = { 1.25, 1.50 };		//array holder for parameter combinations later on aka "parameter sweeps" which GPU can greatly speed up// a[] is # standard deviations//
@@ -482,11 +482,11 @@ for (gg = 1; gg <= NUMI; gg++) {		// top loop for number of market data files pa
 }
 
 	t2 = clock();
-	diff = (((float)t2 - (float)t1) / 1000000.0F ) * 1000;
-	printf("\n\n%.2f sec..Avg I-MaxSharpe is %.2f..+I-Sharpes are %d of %d combos or %.0f%%..\n+%d Win Markets out of %i..Avg All I-Sharpes is %.2f\n\n",diff/60.0,avv/NUMI,combo,counter,(((double)(combo)/(double)(counter))*100),wins,NUMI,sharpie/(double)(counter));
+	diff = (((float)t2 - (float)t1) / 1000000.0F ) * 1;
+	printf("\n\n%.2f min..Avg I-MaxSharpe is %.2f..+I-Sharpes are %d of %d combos or %.0f%%..\n+%d Win Markets out of %i..Avg All I-Sharpes is %.2f\n\n",diff/60.0,avv/NUMI,combo,counter,(((double)(combo)/(double)(counter))*100),wins,NUMI,sharpie/(double)(counter));
 	fprintf(recon,"\n\n%.2f sec..Avg I-MaxSharpe is %.2f..+I-Sharpes are %d of %d combos or %.0f%%..\n+%d Win Markets out of %i..Avg All I-Sharpes is %.2f\n\n",diff/60.0,avv/NUMI,combo,counter,(((double)(combo)/(double)(counter))*100),wins,NUMI,sharpie/(double)(counter));
 
-	printf("\n\n%.2f sec..+O-Sharpes are %d of %d combos or %.0f%%..\n+%d Win Markets out of %i..Avg All O-Sharpes is %.2f\n\n",diff/60.0,combos,counters,(((double)(combos)/(double)(counters))*100),winos,NUMI,sharpies/(double)(NUMI));//(double)(counters)); //NUMI
+	printf("\n\n%.2f min..+O-Sharpes are %d of %d combos or %.0f%%..\n+%d Win Markets out of %i..Avg All O-Sharpes is %.2f\n\n",diff/60.0,combos,counters,(((double)(combos)/(double)(counters))*100),winos,NUMI,sharpies/(double)(NUMI));//(double)(counters)); //NUMI
 	fprintf(recon,"\n\n%.2f sec..+O-Sharpes are %d of %d combos or %.0f%%..\n+%d Win Markets out of %i..Avg All O-Sharpes is %.2f\n\n",diff/60.0,combos,counters,(((double)(combos)/(double)(counters))*100),winos,NUMI,sharpies/(double)(NUMI)); //NUMI
 
 	f_close(PATH"recon.dat",recon);
