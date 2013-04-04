@@ -1,0 +1,149 @@
+cd DemoCu/Debug/
+make clean
+make
+
+Building file: ../src/DemoCu.cu
+Invoking: NVCC Compiler
+nvcc -G -g -O0 -gencode arch=compute_30,code=sm_30 -odir "src" -M -o "src/DemoCu.d" "../src/DemoCu.cu"
+nvcc --compile -G -O0 -g -gencode arch=compute_30,code=compute_30 -gencode arch=compute_30,code=sm_30  -x cu -o  "src/DemoCu.o" "../src/DemoCu.cu"
+../src/DemoCu.cu(48): warning: extra braces are nonstandard
+
+../src/DemoCu.cu(64): warning: extra braces are nonstandard
+
+../src/DemoCu.cu(43): warning: variable "start_h" was declared but never referenced
+
+../src/DemoCu.cu(43): warning: variable "stop_h" was declared but never referenced
+
+../src/DemoCu.cu(43): warning: variable "c" was declared but never referenced
+
+../src/DemoCu.cu(43): warning: variable "lenny" was set but never used
+
+../src/DemoCu.cu(45): warning: variable "a_d" was declared but never referenced
+
+../src/DemoCu.cu(45): warning: variable "a_h" was declared but never referenced
+
+../src/DemoCu.cu(46): warning: variable "sqb" was set but never used
+
+../src/DemoCu.cu(48): warning: variable "zz" was declared but never referenced
+
+../src/DemoCu.cu(48): warning: variable "start_d" was declared but never referenced
+
+../src/DemoCu.cu(48): warning: variable "stop_d" was declared but never referenced
+
+../src/DemoCu.cu(48): warning: variable "startf" was declared but never referenced
+
+../src/DemoCu.cu(48): warning: variable "dir" was declared but never referenced
+
+../src/DemoCu.cu(50): warning: variable "pp" was declared but never referenced
+
+../src/DemoCu.cu(64): warning: variable "sumss" was declared but never referenced
+
+../src/DemoCu.cu(48): warning: extra braces are nonstandard
+
+../src/DemoCu.cu(64): warning: extra braces are nonstandard
+
+../src/DemoCu.cu(43): warning: variable "start_h" was declared but never referenced
+
+../src/DemoCu.cu(43): warning: variable "stop_h" was declared but never referenced
+
+../src/DemoCu.cu(43): warning: variable "c" was declared but never referenced
+
+../src/DemoCu.cu(43): warning: variable "lenny" was set but never used
+
+../src/DemoCu.cu(45): warning: variable "a_d" was declared but never referenced
+
+../src/DemoCu.cu(45): warning: variable "a_h" was declared but never referenced
+
+../src/DemoCu.cu(46): warning: variable "sqb" was set but never used
+
+../src/DemoCu.cu(48): warning: variable "zz" was declared but never referenced
+
+../src/DemoCu.cu(48): warning: variable "start_d" was declared but never referenced
+
+../src/DemoCu.cu(48): warning: variable "stop_d" was declared but never referenced
+
+../src/DemoCu.cu(48): warning: variable "startf" was declared but never referenced
+
+../src/DemoCu.cu(48): warning: variable "dir" was declared but never referenced
+
+../src/DemoCu.cu(50): warning: variable "pp" was declared but never referenced
+
+../src/DemoCu.cu(64): warning: variable "sumss" was declared but never referenced
+
+Finished building: ../src/DemoCu.cu
+
+Building target: DemoCu
+Invoking: NVCC Linker
+nvcc  -link -o  "DemoCu"  ./src/DemoCu.o
+Finished building target: DemoCu
+
+
+
+nvidia-smi
+
+Fri Mar 29 17:24:55 2013       
++------------------------------------------------------+                       
+| NVIDIA-SMI 4.310.32   Driver Version: 310.32         |                       
+|-------------------------------+----------------------+----------------------+
+| GPU  Name                     | Bus-Id        Disp.  | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap| Memory-Usage         | GPU-Util  Compute M. |
+|===============================+======================+======================|
+|   0  Tesla K20m               | 0000:03:00.0     Off |                  Off |
+| N/A   26C    P8    12W / 225W |   0%   13MB / 5119MB |      0%    E. Thread |
++-------------------------------+----------------------+----------------------+
+|   1  Tesla K20m               | 0000:83:00.0     Off |                  Off |
+| N/A   24C    P8    12W / 225W |   0%   13MB / 5119MB |      0%    E. Thread |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Compute processes:                                               GPU Memory |
+|  GPU       PID  Process name                                     Usage      |
+|=============================================================================|
+|  No running compute processes found                                         |
++-----------------------------------------------------------------------------+
+
+
+
+./DemoCu 
+
+IS Test0 Market1-RBOB Period1
+Sharpe  5.57
+Param1  1.25
+Param2  21
+Num of Years: 0.00 thru 6.14 of 7.06 total
+
+IS Test1 Market1-RBOB Period1
+Sharpe  4.26
+Param1  1.25
+Param2  34
+Num of Years: 0.00 thru 6.14 of 7.06 total
+
+IS Test2 Market1-RBOB Period1
+Sharpe  5.49
+Param1  1.50
+Param2  21
+Num of Years: 0.00 thru 6.14 of 7.06 total
+
+IS Test3 Market1-RBOB Period1
+Sharpe  4.22
+Param1  1.50
+Param2  34
+Num of Years: 0.00 thru 6.14 of 7.06 total
+
+5.57 Max Sharpe of Market1-RBOB Period1 is Test 0 with STD 1.25 and SNR 21
+
+OS PNL: Market1-RBOB Period1
+OS-Sharpe       2.45
+OS-Param1       1.25
+OS-Param2       21
+Num of Years: 6.14 thru 7.06 of 7.06 total
+
+
+5.00 sec..Avg I-MaxSharpe is 5.57..+I-Sharpes are 4 of 4 combos or 100%..
++1 Win Markets out of 1..Avg All I-Sharpes is 4.88
+
+
+
+5.00 sec..+O-Sharpes are 1 of 1 combos or 100%..
++1 Win Markets out of 1..Avg All O-Sharpes is 2.45
+
