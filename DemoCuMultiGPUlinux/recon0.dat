@@ -1,0 +1,3658 @@
+
+IS Test0 Market1-RBOB Period1
+Sharpe	5.57
+Param1	1.25
+Param2	21
+Num of Years: 0.00 thru 6.14 of 7.06 total
+
+IS Test1 Market1-RBOB Period1
+Sharpe	4.26
+Param1	1.25
+Param2	34
+Num of Years: 0.00 thru 6.14 of 7.06 total
+
+IS Test2 Market1-RBOB Period1
+Sharpe	5.49
+Param1	1.50
+Param2	21
+Num of Years: 0.00 thru 6.14 of 7.06 total
+
+IS Test3 Market1-RBOB Period1
+Sharpe	4.22
+Param1	1.50
+Param2	34
+Num of Years: 0.00 thru 6.14 of 7.06 total
+
+5.57 Max Sharpe of Market1-RBOB Period1 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market1-RBOB Period1
+OS-Sharpe	2.45
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 6.14 thru 7.06 of 7.06 total
+
+IS Test0 Market2-HO Period1
+Sharpe	6.23
+Param1	1.25
+Param2	21
+Num of Years: 0.00 thru 6.14 of 32.69 total
+
+IS Test1 Market2-HO Period1
+Sharpe	5.08
+Param1	1.25
+Param2	34
+Num of Years: 0.00 thru 6.14 of 32.69 total
+
+IS Test2 Market2-HO Period1
+Sharpe	6.30
+Param1	1.50
+Param2	21
+Num of Years: 0.00 thru 6.14 of 32.69 total
+
+IS Test3 Market2-HO Period1
+Sharpe	5.06
+Param1	1.50
+Param2	34
+Num of Years: 0.00 thru 6.14 of 32.69 total
+
+6.30 Max Sharpe of Market2-HO Period1 is Test 2 with STD 1.50 and MA 21
+
+OS PNL: Market2-HO Period1
+OS-Sharpe	2.40
+OS-Param1	1.50
+OS-Param2	21
+Num of Years: 6.14 thru 7.59 of 32.69 total
+
+IS Test0 Market2-HO Period2
+Sharpe	5.40
+Param1	1.25
+Param2	21
+Num of Years: 1.45 thru 7.59 of 32.69 total
+
+IS Test1 Market2-HO Period2
+Sharpe	4.47
+Param1	1.25
+Param2	34
+Num of Years: 1.45 thru 7.59 of 32.69 total
+
+IS Test2 Market2-HO Period2
+Sharpe	5.34
+Param1	1.50
+Param2	21
+Num of Years: 1.45 thru 7.59 of 32.69 total
+
+IS Test3 Market2-HO Period2
+Sharpe	4.34
+Param1	1.50
+Param2	34
+Num of Years: 1.45 thru 7.59 of 32.69 total
+
+5.40 Max Sharpe of Market2-HO Period2 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market2-HO Period2
+OS-Sharpe	2.57
+OS-Param1	1.50
+OS-Param2	21
+Num of Years: 7.59 thru 9.04 of 32.69 total
+
+IS Test0 Market2-HO Period3
+Sharpe	4.87
+Param1	1.25
+Param2	21
+Num of Years: 2.90 thru 9.04 of 32.69 total
+
+IS Test1 Market2-HO Period3
+Sharpe	3.98
+Param1	1.25
+Param2	34
+Num of Years: 2.90 thru 9.04 of 32.69 total
+
+IS Test2 Market2-HO Period3
+Sharpe	4.84
+Param1	1.50
+Param2	21
+Num of Years: 2.90 thru 9.04 of 32.69 total
+
+IS Test3 Market2-HO Period3
+Sharpe	3.90
+Param1	1.50
+Param2	34
+Num of Years: 2.90 thru 9.04 of 32.69 total
+
+4.87 Max Sharpe of Market2-HO Period3 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market2-HO Period3
+OS-Sharpe	2.44
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 9.04 thru 10.49 of 32.69 total
+
+IS Test0 Market2-HO Period4
+Sharpe	4.59
+Param1	1.25
+Param2	21
+Num of Years: 4.35 thru 10.49 of 32.69 total
+
+IS Test1 Market2-HO Period4
+Sharpe	3.59
+Param1	1.25
+Param2	34
+Num of Years: 4.35 thru 10.49 of 32.69 total
+
+IS Test2 Market2-HO Period4
+Sharpe	4.48
+Param1	1.50
+Param2	21
+Num of Years: 4.35 thru 10.49 of 32.69 total
+
+IS Test3 Market2-HO Period4
+Sharpe	3.71
+Param1	1.50
+Param2	34
+Num of Years: 4.35 thru 10.49 of 32.69 total
+
+4.59 Max Sharpe of Market2-HO Period4 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market2-HO Period4
+OS-Sharpe	1.27
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 10.49 thru 11.94 of 32.69 total
+
+IS Test0 Market2-HO Period5
+Sharpe	3.42
+Param1	1.25
+Param2	21
+Num of Years: 5.80 thru 11.94 of 32.69 total
+
+IS Test1 Market2-HO Period5
+Sharpe	2.83
+Param1	1.25
+Param2	34
+Num of Years: 5.80 thru 11.94 of 32.69 total
+
+IS Test2 Market2-HO Period5
+Sharpe	3.25
+Param1	1.50
+Param2	21
+Num of Years: 5.80 thru 11.94 of 32.69 total
+
+IS Test3 Market2-HO Period5
+Sharpe	2.72
+Param1	1.50
+Param2	34
+Num of Years: 5.80 thru 11.94 of 32.69 total
+
+3.42 Max Sharpe of Market2-HO Period5 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market2-HO Period5
+OS-Sharpe	1.98
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 11.94 thru 13.39 of 32.69 total
+
+IS Test0 Market2-HO Period6
+Sharpe	3.12
+Param1	1.25
+Param2	21
+Num of Years: 7.25 thru 13.39 of 32.69 total
+
+IS Test1 Market2-HO Period6
+Sharpe	2.54
+Param1	1.25
+Param2	34
+Num of Years: 7.25 thru 13.39 of 32.69 total
+
+IS Test2 Market2-HO Period6
+Sharpe	3.01
+Param1	1.50
+Param2	21
+Num of Years: 7.25 thru 13.39 of 32.69 total
+
+IS Test3 Market2-HO Period6
+Sharpe	2.51
+Param1	1.50
+Param2	34
+Num of Years: 7.25 thru 13.39 of 32.69 total
+
+3.12 Max Sharpe of Market2-HO Period6 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market2-HO Period6
+OS-Sharpe	1.70
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 13.39 thru 14.84 of 32.69 total
+
+IS Test0 Market2-HO Period7
+Sharpe	2.84
+Param1	1.25
+Param2	21
+Num of Years: 8.70 thru 14.84 of 32.69 total
+
+IS Test1 Market2-HO Period7
+Sharpe	2.36
+Param1	1.25
+Param2	34
+Num of Years: 8.70 thru 14.84 of 32.69 total
+
+IS Test2 Market2-HO Period7
+Sharpe	2.69
+Param1	1.50
+Param2	21
+Num of Years: 8.70 thru 14.84 of 32.69 total
+
+IS Test3 Market2-HO Period7
+Sharpe	2.29
+Param1	1.50
+Param2	34
+Num of Years: 8.70 thru 14.84 of 32.69 total
+
+2.84 Max Sharpe of Market2-HO Period7 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market2-HO Period7
+OS-Sharpe	1.69
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 14.84 thru 16.29 of 32.69 total
+
+IS Test0 Market2-HO Period8
+Sharpe	2.56
+Param1	1.25
+Param2	21
+Num of Years: 10.15 thru 16.29 of 32.69 total
+
+IS Test1 Market2-HO Period8
+Sharpe	2.16
+Param1	1.25
+Param2	34
+Num of Years: 10.15 thru 16.29 of 32.69 total
+
+IS Test2 Market2-HO Period8
+Sharpe	2.42
+Param1	1.50
+Param2	21
+Num of Years: 10.15 thru 16.29 of 32.69 total
+
+IS Test3 Market2-HO Period8
+Sharpe	2.06
+Param1	1.50
+Param2	34
+Num of Years: 10.15 thru 16.29 of 32.69 total
+
+2.56 Max Sharpe of Market2-HO Period8 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market2-HO Period8
+OS-Sharpe	1.62
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 16.29 thru 17.74 of 32.69 total
+
+IS Test0 Market2-HO Period9
+Sharpe	3.38
+Param1	1.25
+Param2	21
+Num of Years: 11.60 thru 17.74 of 32.69 total
+
+IS Test1 Market2-HO Period9
+Sharpe	2.79
+Param1	1.25
+Param2	34
+Num of Years: 11.60 thru 17.74 of 32.69 total
+
+IS Test2 Market2-HO Period9
+Sharpe	3.28
+Param1	1.50
+Param2	21
+Num of Years: 11.60 thru 17.74 of 32.69 total
+
+IS Test3 Market2-HO Period9
+Sharpe	2.74
+Param1	1.50
+Param2	34
+Num of Years: 11.60 thru 17.74 of 32.69 total
+
+3.38 Max Sharpe of Market2-HO Period9 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market2-HO Period9
+OS-Sharpe	1.74
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 17.74 thru 19.19 of 32.69 total
+
+IS Test0 Market2-HO Period10
+Sharpe	3.26
+Param1	1.25
+Param2	21
+Num of Years: 13.05 thru 19.19 of 32.69 total
+
+IS Test1 Market2-HO Period10
+Sharpe	2.72
+Param1	1.25
+Param2	34
+Num of Years: 13.05 thru 19.19 of 32.69 total
+
+IS Test2 Market2-HO Period10
+Sharpe	3.06
+Param1	1.50
+Param2	21
+Num of Years: 13.05 thru 19.19 of 32.69 total
+
+IS Test3 Market2-HO Period10
+Sharpe	2.69
+Param1	1.50
+Param2	34
+Num of Years: 13.05 thru 19.19 of 32.69 total
+
+3.26 Max Sharpe of Market2-HO Period10 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market2-HO Period10
+OS-Sharpe	1.65
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 19.19 thru 20.64 of 32.69 total
+
+IS Test0 Market2-HO Period11
+Sharpe	3.19
+Param1	1.25
+Param2	21
+Num of Years: 14.50 thru 20.64 of 32.69 total
+
+IS Test1 Market2-HO Period11
+Sharpe	2.70
+Param1	1.25
+Param2	34
+Num of Years: 14.50 thru 20.64 of 32.69 total
+
+IS Test2 Market2-HO Period11
+Sharpe	3.00
+Param1	1.50
+Param2	21
+Num of Years: 14.50 thru 20.64 of 32.69 total
+
+IS Test3 Market2-HO Period11
+Sharpe	2.63
+Param1	1.50
+Param2	34
+Num of Years: 14.50 thru 20.64 of 32.69 total
+
+3.19 Max Sharpe of Market2-HO Period11 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market2-HO Period11
+OS-Sharpe	1.31
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 20.64 thru 22.09 of 32.69 total
+
+IS Test0 Market2-HO Period12
+Sharpe	3.06
+Param1	1.25
+Param2	21
+Num of Years: 15.95 thru 22.09 of 32.69 total
+
+IS Test1 Market2-HO Period12
+Sharpe	2.57
+Param1	1.25
+Param2	34
+Num of Years: 15.95 thru 22.09 of 32.69 total
+
+IS Test2 Market2-HO Period12
+Sharpe	2.91
+Param1	1.50
+Param2	21
+Num of Years: 15.95 thru 22.09 of 32.69 total
+
+IS Test3 Market2-HO Period12
+Sharpe	2.62
+Param1	1.50
+Param2	34
+Num of Years: 15.95 thru 22.09 of 32.69 total
+
+3.06 Max Sharpe of Market2-HO Period12 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market2-HO Period12
+OS-Sharpe	1.55
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 22.09 thru 23.54 of 32.69 total
+
+IS Test0 Market2-HO Period13
+Sharpe	2.97
+Param1	1.25
+Param2	21
+Num of Years: 17.40 thru 23.54 of 32.69 total
+
+IS Test1 Market2-HO Period13
+Sharpe	2.46
+Param1	1.25
+Param2	34
+Num of Years: 17.40 thru 23.54 of 32.69 total
+
+IS Test2 Market2-HO Period13
+Sharpe	2.75
+Param1	1.50
+Param2	21
+Num of Years: 17.40 thru 23.54 of 32.69 total
+
+IS Test3 Market2-HO Period13
+Sharpe	2.51
+Param1	1.50
+Param2	34
+Num of Years: 17.40 thru 23.54 of 32.69 total
+
+2.97 Max Sharpe of Market2-HO Period13 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market2-HO Period13
+OS-Sharpe	1.46
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 23.54 thru 24.99 of 32.69 total
+
+IS Test0 Market2-HO Period14
+Sharpe	2.84
+Param1	1.25
+Param2	21
+Num of Years: 18.85 thru 24.99 of 32.69 total
+
+IS Test1 Market2-HO Period14
+Sharpe	2.37
+Param1	1.25
+Param2	34
+Num of Years: 18.85 thru 24.99 of 32.69 total
+
+IS Test2 Market2-HO Period14
+Sharpe	2.78
+Param1	1.50
+Param2	21
+Num of Years: 18.85 thru 24.99 of 32.69 total
+
+IS Test3 Market2-HO Period14
+Sharpe	2.45
+Param1	1.50
+Param2	34
+Num of Years: 18.85 thru 24.99 of 32.69 total
+
+2.84 Max Sharpe of Market2-HO Period14 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market2-HO Period14
+OS-Sharpe	1.40
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 24.99 thru 26.44 of 32.69 total
+
+IS Test0 Market2-HO Period15
+Sharpe	2.71
+Param1	1.25
+Param2	21
+Num of Years: 20.30 thru 26.44 of 32.69 total
+
+IS Test1 Market2-HO Period15
+Sharpe	2.29
+Param1	1.25
+Param2	34
+Num of Years: 20.30 thru 26.44 of 32.69 total
+
+IS Test2 Market2-HO Period15
+Sharpe	2.50
+Param1	1.50
+Param2	21
+Num of Years: 20.30 thru 26.44 of 32.69 total
+
+IS Test3 Market2-HO Period15
+Sharpe	2.35
+Param1	1.50
+Param2	34
+Num of Years: 20.30 thru 26.44 of 32.69 total
+
+2.71 Max Sharpe of Market2-HO Period15 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market2-HO Period15
+OS-Sharpe	1.49
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 26.44 thru 27.89 of 32.69 total
+
+IS Test0 Market2-HO Period16
+Sharpe	2.78
+Param1	1.25
+Param2	21
+Num of Years: 21.75 thru 27.89 of 32.69 total
+
+IS Test1 Market2-HO Period16
+Sharpe	2.40
+Param1	1.25
+Param2	34
+Num of Years: 21.75 thru 27.89 of 32.69 total
+
+IS Test2 Market2-HO Period16
+Sharpe	2.53
+Param1	1.50
+Param2	21
+Num of Years: 21.75 thru 27.89 of 32.69 total
+
+IS Test3 Market2-HO Period16
+Sharpe	2.37
+Param1	1.50
+Param2	34
+Num of Years: 21.75 thru 27.89 of 32.69 total
+
+2.78 Max Sharpe of Market2-HO Period16 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market2-HO Period16
+OS-Sharpe	1.50
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 27.89 thru 29.34 of 32.69 total
+
+IS Test0 Market2-HO Period17
+Sharpe	2.71
+Param1	1.25
+Param2	21
+Num of Years: 23.20 thru 29.34 of 32.69 total
+
+IS Test1 Market2-HO Period17
+Sharpe	2.22
+Param1	1.25
+Param2	34
+Num of Years: 23.20 thru 29.34 of 32.69 total
+
+IS Test2 Market2-HO Period17
+Sharpe	2.47
+Param1	1.50
+Param2	21
+Num of Years: 23.20 thru 29.34 of 32.69 total
+
+IS Test3 Market2-HO Period17
+Sharpe	2.23
+Param1	1.50
+Param2	34
+Num of Years: 23.20 thru 29.34 of 32.69 total
+
+2.71 Max Sharpe of Market2-HO Period17 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market2-HO Period17
+OS-Sharpe	1.43
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 29.34 thru 30.79 of 32.69 total
+
+IS Test0 Market2-HO Period18
+Sharpe	2.77
+Param1	1.25
+Param2	21
+Num of Years: 24.65 thru 30.79 of 32.69 total
+
+IS Test1 Market2-HO Period18
+Sharpe	2.24
+Param1	1.25
+Param2	34
+Num of Years: 24.65 thru 30.79 of 32.69 total
+
+IS Test2 Market2-HO Period18
+Sharpe	2.49
+Param1	1.50
+Param2	21
+Num of Years: 24.65 thru 30.79 of 32.69 total
+
+IS Test3 Market2-HO Period18
+Sharpe	2.19
+Param1	1.50
+Param2	34
+Num of Years: 24.65 thru 30.79 of 32.69 total
+
+2.77 Max Sharpe of Market2-HO Period18 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market2-HO Period18
+OS-Sharpe	1.18
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 30.79 thru 32.24 of 32.69 total
+
+IS Test0 Market2-HO Period19
+Sharpe	2.67
+Param1	1.25
+Param2	21
+Num of Years: 26.10 thru 32.24 of 32.69 total
+
+IS Test1 Market2-HO Period19
+Sharpe	2.18
+Param1	1.25
+Param2	34
+Num of Years: 26.10 thru 32.24 of 32.69 total
+
+IS Test2 Market2-HO Period19
+Sharpe	2.43
+Param1	1.50
+Param2	21
+Num of Years: 26.10 thru 32.24 of 32.69 total
+
+IS Test3 Market2-HO Period19
+Sharpe	2.11
+Param1	1.50
+Param2	34
+Num of Years: 26.10 thru 32.24 of 32.69 total
+
+2.67 Max Sharpe of Market2-HO Period19 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market2-HO Period19
+OS-Sharpe	0.63
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 32.24 thru 32.69 of 32.69 total
+
+IS Test0 Market3-SP Period1
+Sharpe	3.43
+Param1	1.25
+Param2	21
+Num of Years: 0.00 thru 6.14 of 29.83 total
+
+IS Test1 Market3-SP Period1
+Sharpe	2.75
+Param1	1.25
+Param2	34
+Num of Years: 0.00 thru 6.14 of 29.83 total
+
+IS Test2 Market3-SP Period1
+Sharpe	3.51
+Param1	1.50
+Param2	21
+Num of Years: 0.00 thru 6.14 of 29.83 total
+
+IS Test3 Market3-SP Period1
+Sharpe	2.62
+Param1	1.50
+Param2	34
+Num of Years: 0.00 thru 6.14 of 29.83 total
+
+3.51 Max Sharpe of Market3-SP Period1 is Test 2 with STD 1.50 and MA 21
+
+OS PNL: Market3-SP Period1
+OS-Sharpe	2.02
+OS-Param1	1.50
+OS-Param2	21
+Num of Years: 6.14 thru 7.59 of 29.83 total
+
+IS Test0 Market3-SP Period2
+Sharpe	3.17
+Param1	1.25
+Param2	21
+Num of Years: 1.45 thru 7.59 of 29.83 total
+
+IS Test1 Market3-SP Period2
+Sharpe	2.44
+Param1	1.25
+Param2	34
+Num of Years: 1.45 thru 7.59 of 29.83 total
+
+IS Test2 Market3-SP Period2
+Sharpe	3.21
+Param1	1.50
+Param2	21
+Num of Years: 1.45 thru 7.59 of 29.83 total
+
+IS Test3 Market3-SP Period2
+Sharpe	2.47
+Param1	1.50
+Param2	34
+Num of Years: 1.45 thru 7.59 of 29.83 total
+
+3.21 Max Sharpe of Market3-SP Period2 is Test 2 with STD 1.50 and MA 21
+
+OS PNL: Market3-SP Period2
+OS-Sharpe	2.16
+OS-Param1	1.50
+OS-Param2	21
+Num of Years: 7.59 thru 9.04 of 29.83 total
+
+IS Test0 Market3-SP Period3
+Sharpe	3.24
+Param1	1.25
+Param2	21
+Num of Years: 2.90 thru 9.04 of 29.83 total
+
+IS Test1 Market3-SP Period3
+Sharpe	2.51
+Param1	1.25
+Param2	34
+Num of Years: 2.90 thru 9.04 of 29.83 total
+
+IS Test2 Market3-SP Period3
+Sharpe	3.23
+Param1	1.50
+Param2	21
+Num of Years: 2.90 thru 9.04 of 29.83 total
+
+IS Test3 Market3-SP Period3
+Sharpe	2.53
+Param1	1.50
+Param2	34
+Num of Years: 2.90 thru 9.04 of 29.83 total
+
+3.24 Max Sharpe of Market3-SP Period3 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market3-SP Period3
+OS-Sharpe	1.93
+OS-Param1	1.50
+OS-Param2	21
+Num of Years: 9.04 thru 10.49 of 29.83 total
+
+IS Test0 Market3-SP Period4
+Sharpe	3.02
+Param1	1.25
+Param2	21
+Num of Years: 4.35 thru 10.49 of 29.83 total
+
+IS Test1 Market3-SP Period4
+Sharpe	2.35
+Param1	1.25
+Param2	34
+Num of Years: 4.35 thru 10.49 of 29.83 total
+
+IS Test2 Market3-SP Period4
+Sharpe	3.01
+Param1	1.50
+Param2	21
+Num of Years: 4.35 thru 10.49 of 29.83 total
+
+IS Test3 Market3-SP Period4
+Sharpe	2.32
+Param1	1.50
+Param2	34
+Num of Years: 4.35 thru 10.49 of 29.83 total
+
+3.02 Max Sharpe of Market3-SP Period4 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market3-SP Period4
+OS-Sharpe	1.52
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 10.49 thru 11.94 of 29.83 total
+
+IS Test0 Market3-SP Period5
+Sharpe	3.73
+Param1	1.25
+Param2	21
+Num of Years: 5.80 thru 11.94 of 29.83 total
+
+IS Test1 Market3-SP Period5
+Sharpe	2.95
+Param1	1.25
+Param2	34
+Num of Years: 5.80 thru 11.94 of 29.83 total
+
+IS Test2 Market3-SP Period5
+Sharpe	3.61
+Param1	1.50
+Param2	21
+Num of Years: 5.80 thru 11.94 of 29.83 total
+
+IS Test3 Market3-SP Period5
+Sharpe	2.98
+Param1	1.50
+Param2	34
+Num of Years: 5.80 thru 11.94 of 29.83 total
+
+3.73 Max Sharpe of Market3-SP Period5 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market3-SP Period5
+OS-Sharpe	1.93
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 11.94 thru 13.39 of 29.83 total
+
+IS Test0 Market3-SP Period6
+Sharpe	3.51
+Param1	1.25
+Param2	21
+Num of Years: 7.25 thru 13.39 of 29.83 total
+
+IS Test1 Market3-SP Period6
+Sharpe	2.86
+Param1	1.25
+Param2	34
+Num of Years: 7.25 thru 13.39 of 29.83 total
+
+IS Test2 Market3-SP Period6
+Sharpe	3.38
+Param1	1.50
+Param2	21
+Num of Years: 7.25 thru 13.39 of 29.83 total
+
+IS Test3 Market3-SP Period6
+Sharpe	2.92
+Param1	1.50
+Param2	34
+Num of Years: 7.25 thru 13.39 of 29.83 total
+
+3.51 Max Sharpe of Market3-SP Period6 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market3-SP Period6
+OS-Sharpe	1.69
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 13.39 thru 14.84 of 29.83 total
+
+IS Test0 Market3-SP Period7
+Sharpe	3.29
+Param1	1.25
+Param2	21
+Num of Years: 8.70 thru 14.84 of 29.83 total
+
+IS Test1 Market3-SP Period7
+Sharpe	2.87
+Param1	1.25
+Param2	34
+Num of Years: 8.70 thru 14.84 of 29.83 total
+
+IS Test2 Market3-SP Period7
+Sharpe	3.30
+Param1	1.50
+Param2	21
+Num of Years: 8.70 thru 14.84 of 29.83 total
+
+IS Test3 Market3-SP Period7
+Sharpe	2.81
+Param1	1.50
+Param2	34
+Num of Years: 8.70 thru 14.84 of 29.83 total
+
+3.30 Max Sharpe of Market3-SP Period7 is Test 2 with STD 1.50 and MA 21
+
+OS PNL: Market3-SP Period7
+OS-Sharpe	1.54
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 14.84 thru 16.29 of 29.83 total
+
+IS Test0 Market3-SP Period8
+Sharpe	2.85
+Param1	1.25
+Param2	21
+Num of Years: 10.15 thru 16.29 of 29.83 total
+
+IS Test1 Market3-SP Period8
+Sharpe	2.34
+Param1	1.25
+Param2	34
+Num of Years: 10.15 thru 16.29 of 29.83 total
+
+IS Test2 Market3-SP Period8
+Sharpe	2.72
+Param1	1.50
+Param2	21
+Num of Years: 10.15 thru 16.29 of 29.83 total
+
+IS Test3 Market3-SP Period8
+Sharpe	2.43
+Param1	1.50
+Param2	34
+Num of Years: 10.15 thru 16.29 of 29.83 total
+
+2.85 Max Sharpe of Market3-SP Period8 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market3-SP Period8
+OS-Sharpe	1.37
+OS-Param1	1.50
+OS-Param2	21
+Num of Years: 16.29 thru 17.74 of 29.83 total
+
+IS Test0 Market3-SP Period9
+Sharpe	2.88
+Param1	1.25
+Param2	21
+Num of Years: 11.60 thru 17.74 of 29.83 total
+
+IS Test1 Market3-SP Period9
+Sharpe	2.49
+Param1	1.25
+Param2	34
+Num of Years: 11.60 thru 17.74 of 29.83 total
+
+IS Test2 Market3-SP Period9
+Sharpe	2.72
+Param1	1.50
+Param2	21
+Num of Years: 11.60 thru 17.74 of 29.83 total
+
+IS Test3 Market3-SP Period9
+Sharpe	2.47
+Param1	1.50
+Param2	34
+Num of Years: 11.60 thru 17.74 of 29.83 total
+
+2.88 Max Sharpe of Market3-SP Period9 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market3-SP Period9
+OS-Sharpe	1.52
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 17.74 thru 19.19 of 29.83 total
+
+IS Test0 Market3-SP Period10
+Sharpe	2.93
+Param1	1.25
+Param2	21
+Num of Years: 13.05 thru 19.19 of 29.83 total
+
+IS Test1 Market3-SP Period10
+Sharpe	2.48
+Param1	1.25
+Param2	34
+Num of Years: 13.05 thru 19.19 of 29.83 total
+
+IS Test2 Market3-SP Period10
+Sharpe	2.80
+Param1	1.50
+Param2	21
+Num of Years: 13.05 thru 19.19 of 29.83 total
+
+IS Test3 Market3-SP Period10
+Sharpe	2.50
+Param1	1.50
+Param2	34
+Num of Years: 13.05 thru 19.19 of 29.83 total
+
+2.93 Max Sharpe of Market3-SP Period10 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market3-SP Period10
+OS-Sharpe	1.64
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 19.19 thru 20.64 of 29.83 total
+
+IS Test0 Market3-SP Period11
+Sharpe	3.03
+Param1	1.25
+Param2	21
+Num of Years: 14.50 thru 20.64 of 29.83 total
+
+IS Test1 Market3-SP Period11
+Sharpe	2.52
+Param1	1.25
+Param2	34
+Num of Years: 14.50 thru 20.64 of 29.83 total
+
+IS Test2 Market3-SP Period11
+Sharpe	3.00
+Param1	1.50
+Param2	21
+Num of Years: 14.50 thru 20.64 of 29.83 total
+
+IS Test3 Market3-SP Period11
+Sharpe	2.54
+Param1	1.50
+Param2	34
+Num of Years: 14.50 thru 20.64 of 29.83 total
+
+3.03 Max Sharpe of Market3-SP Period11 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market3-SP Period11
+OS-Sharpe	1.71
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 20.64 thru 22.09 of 29.83 total
+
+IS Test0 Market3-SP Period12
+Sharpe	3.03
+Param1	1.25
+Param2	21
+Num of Years: 15.95 thru 22.09 of 29.83 total
+
+IS Test1 Market3-SP Period12
+Sharpe	2.49
+Param1	1.25
+Param2	34
+Num of Years: 15.95 thru 22.09 of 29.83 total
+
+IS Test2 Market3-SP Period12
+Sharpe	2.96
+Param1	1.50
+Param2	21
+Num of Years: 15.95 thru 22.09 of 29.83 total
+
+IS Test3 Market3-SP Period12
+Sharpe	2.49
+Param1	1.50
+Param2	34
+Num of Years: 15.95 thru 22.09 of 29.83 total
+
+3.03 Max Sharpe of Market3-SP Period12 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market3-SP Period12
+OS-Sharpe	1.48
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 22.09 thru 23.54 of 29.83 total
+
+IS Test0 Market3-SP Period13
+Sharpe	2.85
+Param1	1.25
+Param2	21
+Num of Years: 17.40 thru 23.54 of 29.83 total
+
+IS Test1 Market3-SP Period13
+Sharpe	2.32
+Param1	1.25
+Param2	34
+Num of Years: 17.40 thru 23.54 of 29.83 total
+
+IS Test2 Market3-SP Period13
+Sharpe	2.79
+Param1	1.50
+Param2	21
+Num of Years: 17.40 thru 23.54 of 29.83 total
+
+IS Test3 Market3-SP Period13
+Sharpe	2.35
+Param1	1.50
+Param2	34
+Num of Years: 17.40 thru 23.54 of 29.83 total
+
+2.85 Max Sharpe of Market3-SP Period13 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market3-SP Period13
+OS-Sharpe	1.37
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 23.54 thru 24.99 of 29.83 total
+
+IS Test0 Market3-SP Period14
+Sharpe	2.82
+Param1	1.25
+Param2	21
+Num of Years: 18.85 thru 24.99 of 29.83 total
+
+IS Test1 Market3-SP Period14
+Sharpe	2.19
+Param1	1.25
+Param2	34
+Num of Years: 18.85 thru 24.99 of 29.83 total
+
+IS Test2 Market3-SP Period14
+Sharpe	2.78
+Param1	1.50
+Param2	21
+Num of Years: 18.85 thru 24.99 of 29.83 total
+
+IS Test3 Market3-SP Period14
+Sharpe	2.28
+Param1	1.50
+Param2	34
+Num of Years: 18.85 thru 24.99 of 29.83 total
+
+2.82 Max Sharpe of Market3-SP Period14 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market3-SP Period14
+OS-Sharpe	1.26
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 24.99 thru 26.44 of 29.83 total
+
+IS Test0 Market3-SP Period15
+Sharpe	2.32
+Param1	1.25
+Param2	21
+Num of Years: 20.30 thru 26.44 of 29.83 total
+
+IS Test1 Market3-SP Period15
+Sharpe	1.72
+Param1	1.25
+Param2	34
+Num of Years: 20.30 thru 26.44 of 29.83 total
+
+IS Test2 Market3-SP Period15
+Sharpe	2.24
+Param1	1.50
+Param2	21
+Num of Years: 20.30 thru 26.44 of 29.83 total
+
+IS Test3 Market3-SP Period15
+Sharpe	1.89
+Param1	1.50
+Param2	34
+Num of Years: 20.30 thru 26.44 of 29.83 total
+
+2.32 Max Sharpe of Market3-SP Period15 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market3-SP Period15
+OS-Sharpe	1.47
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 26.44 thru 27.89 of 29.83 total
+
+IS Test0 Market3-SP Period16
+Sharpe	2.33
+Param1	1.25
+Param2	21
+Num of Years: 21.75 thru 27.89 of 29.83 total
+
+IS Test1 Market3-SP Period16
+Sharpe	1.83
+Param1	1.25
+Param2	34
+Num of Years: 21.75 thru 27.89 of 29.83 total
+
+IS Test2 Market3-SP Period16
+Sharpe	2.24
+Param1	1.50
+Param2	21
+Num of Years: 21.75 thru 27.89 of 29.83 total
+
+IS Test3 Market3-SP Period16
+Sharpe	1.93
+Param1	1.50
+Param2	34
+Num of Years: 21.75 thru 27.89 of 29.83 total
+
+2.33 Max Sharpe of Market3-SP Period16 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market3-SP Period16
+OS-Sharpe	1.02
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 27.89 thru 29.34 of 29.83 total
+
+IS Test0 Market3-SP Period17
+Sharpe	2.26
+Param1	1.25
+Param2	21
+Num of Years: 23.20 thru 29.34 of 29.83 total
+
+IS Test1 Market3-SP Period17
+Sharpe	1.79
+Param1	1.25
+Param2	34
+Num of Years: 23.20 thru 29.34 of 29.83 total
+
+IS Test2 Market3-SP Period17
+Sharpe	2.22
+Param1	1.50
+Param2	21
+Num of Years: 23.20 thru 29.34 of 29.83 total
+
+IS Test3 Market3-SP Period17
+Sharpe	1.89
+Param1	1.50
+Param2	34
+Num of Years: 23.20 thru 29.34 of 29.83 total
+
+2.26 Max Sharpe of Market3-SP Period17 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market3-SP Period17
+OS-Sharpe	0.76
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 29.34 thru 29.83 of 29.83 total
+
+IS Test0 Market4-ND Period1
+Sharpe	6.05
+Param1	1.25
+Param2	21
+Num of Years: 0.00 thru 6.14 of 16.24 total
+
+IS Test1 Market4-ND Period1
+Sharpe	4.76
+Param1	1.25
+Param2	34
+Num of Years: 0.00 thru 6.14 of 16.24 total
+
+IS Test2 Market4-ND Period1
+Sharpe	5.99
+Param1	1.50
+Param2	21
+Num of Years: 0.00 thru 6.14 of 16.24 total
+
+IS Test3 Market4-ND Period1
+Sharpe	5.08
+Param1	1.50
+Param2	34
+Num of Years: 0.00 thru 6.14 of 16.24 total
+
+6.05 Max Sharpe of Market4-ND Period1 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market4-ND Period1
+OS-Sharpe	3.02
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 6.14 thru 7.59 of 16.24 total
+
+IS Test0 Market4-ND Period2
+Sharpe	5.71
+Param1	1.25
+Param2	21
+Num of Years: 1.45 thru 7.59 of 16.24 total
+
+IS Test1 Market4-ND Period2
+Sharpe	4.49
+Param1	1.25
+Param2	34
+Num of Years: 1.45 thru 7.59 of 16.24 total
+
+IS Test2 Market4-ND Period2
+Sharpe	5.47
+Param1	1.50
+Param2	21
+Num of Years: 1.45 thru 7.59 of 16.24 total
+
+IS Test3 Market4-ND Period2
+Sharpe	4.65
+Param1	1.50
+Param2	34
+Num of Years: 1.45 thru 7.59 of 16.24 total
+
+5.71 Max Sharpe of Market4-ND Period2 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market4-ND Period2
+OS-Sharpe	2.61
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 7.59 thru 9.04 of 16.24 total
+
+IS Test0 Market4-ND Period3
+Sharpe	5.05
+Param1	1.25
+Param2	21
+Num of Years: 2.90 thru 9.04 of 16.24 total
+
+IS Test1 Market4-ND Period3
+Sharpe	3.99
+Param1	1.25
+Param2	34
+Num of Years: 2.90 thru 9.04 of 16.24 total
+
+IS Test2 Market4-ND Period3
+Sharpe	4.87
+Param1	1.50
+Param2	21
+Num of Years: 2.90 thru 9.04 of 16.24 total
+
+IS Test3 Market4-ND Period3
+Sharpe	4.15
+Param1	1.50
+Param2	34
+Num of Years: 2.90 thru 9.04 of 16.24 total
+
+5.05 Max Sharpe of Market4-ND Period3 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market4-ND Period3
+OS-Sharpe	2.24
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 9.04 thru 10.49 of 16.24 total
+
+IS Test0 Market4-ND Period4
+Sharpe	4.47
+Param1	1.25
+Param2	21
+Num of Years: 4.35 thru 10.49 of 16.24 total
+
+IS Test1 Market4-ND Period4
+Sharpe	3.48
+Param1	1.25
+Param2	34
+Num of Years: 4.35 thru 10.49 of 16.24 total
+
+IS Test2 Market4-ND Period4
+Sharpe	4.31
+Param1	1.50
+Param2	21
+Num of Years: 4.35 thru 10.49 of 16.24 total
+
+IS Test3 Market4-ND Period4
+Sharpe	3.71
+Param1	1.50
+Param2	34
+Num of Years: 4.35 thru 10.49 of 16.24 total
+
+4.47 Max Sharpe of Market4-ND Period4 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market4-ND Period4
+OS-Sharpe	2.16
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 10.49 thru 11.94 of 16.24 total
+
+IS Test0 Market4-ND Period5
+Sharpe	4.55
+Param1	1.25
+Param2	21
+Num of Years: 5.80 thru 11.94 of 16.24 total
+
+IS Test1 Market4-ND Period5
+Sharpe	3.70
+Param1	1.25
+Param2	34
+Num of Years: 5.80 thru 11.94 of 16.24 total
+
+IS Test2 Market4-ND Period5
+Sharpe	4.27
+Param1	1.50
+Param2	21
+Num of Years: 5.80 thru 11.94 of 16.24 total
+
+IS Test3 Market4-ND Period5
+Sharpe	3.70
+Param1	1.50
+Param2	34
+Num of Years: 5.80 thru 11.94 of 16.24 total
+
+4.55 Max Sharpe of Market4-ND Period5 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market4-ND Period5
+OS-Sharpe	1.78
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 11.94 thru 13.39 of 16.24 total
+
+IS Test0 Market4-ND Period6
+Sharpe	3.67
+Param1	1.25
+Param2	21
+Num of Years: 7.25 thru 13.39 of 16.24 total
+
+IS Test1 Market4-ND Period6
+Sharpe	3.04
+Param1	1.25
+Param2	34
+Num of Years: 7.25 thru 13.39 of 16.24 total
+
+IS Test2 Market4-ND Period6
+Sharpe	3.66
+Param1	1.50
+Param2	21
+Num of Years: 7.25 thru 13.39 of 16.24 total
+
+IS Test3 Market4-ND Period6
+Sharpe	2.97
+Param1	1.50
+Param2	34
+Num of Years: 7.25 thru 13.39 of 16.24 total
+
+3.67 Max Sharpe of Market4-ND Period6 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market4-ND Period6
+OS-Sharpe	1.79
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 13.39 thru 14.84 of 16.24 total
+
+IS Test0 Market4-ND Period7
+Sharpe	3.53
+Param1	1.25
+Param2	21
+Num of Years: 8.70 thru 14.84 of 16.24 total
+
+IS Test1 Market4-ND Period7
+Sharpe	2.89
+Param1	1.25
+Param2	34
+Num of Years: 8.70 thru 14.84 of 16.24 total
+
+IS Test2 Market4-ND Period7
+Sharpe	3.43
+Param1	1.50
+Param2	21
+Num of Years: 8.70 thru 14.84 of 16.24 total
+
+IS Test3 Market4-ND Period7
+Sharpe	2.82
+Param1	1.50
+Param2	34
+Num of Years: 8.70 thru 14.84 of 16.24 total
+
+3.53 Max Sharpe of Market4-ND Period7 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market4-ND Period7
+OS-Sharpe	1.88
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 14.84 thru 16.24 of 16.24 total
+
+IS Test0 Market5-EMD Period1
+Sharpe	6.14
+Param1	1.25
+Param2	21
+Num of Years: 0.00 thru 6.14 of 10.63 total
+
+IS Test1 Market5-EMD Period1
+Sharpe	4.85
+Param1	1.25
+Param2	34
+Num of Years: 0.00 thru 6.14 of 10.63 total
+
+IS Test2 Market5-EMD Period1
+Sharpe	5.83
+Param1	1.50
+Param2	21
+Num of Years: 0.00 thru 6.14 of 10.63 total
+
+IS Test3 Market5-EMD Period1
+Sharpe	4.85
+Param1	1.50
+Param2	34
+Num of Years: 0.00 thru 6.14 of 10.63 total
+
+6.14 Max Sharpe of Market5-EMD Period1 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market5-EMD Period1
+OS-Sharpe	2.43
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 6.14 thru 7.59 of 10.63 total
+
+IS Test0 Market5-EMD Period2
+Sharpe	4.66
+Param1	1.25
+Param2	21
+Num of Years: 1.45 thru 7.59 of 10.63 total
+
+IS Test1 Market5-EMD Period2
+Sharpe	3.41
+Param1	1.25
+Param2	34
+Num of Years: 1.45 thru 7.59 of 10.63 total
+
+IS Test2 Market5-EMD Period2
+Sharpe	4.49
+Param1	1.50
+Param2	21
+Num of Years: 1.45 thru 7.59 of 10.63 total
+
+IS Test3 Market5-EMD Period2
+Sharpe	3.40
+Param1	1.50
+Param2	34
+Num of Years: 1.45 thru 7.59 of 10.63 total
+
+4.66 Max Sharpe of Market5-EMD Period2 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market5-EMD Period2
+OS-Sharpe	2.75
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 7.59 thru 9.04 of 10.63 total
+
+IS Test0 Market5-EMD Period3
+Sharpe	4.45
+Param1	1.25
+Param2	21
+Num of Years: 2.90 thru 9.04 of 10.63 total
+
+IS Test1 Market5-EMD Period3
+Sharpe	3.34
+Param1	1.25
+Param2	34
+Num of Years: 2.90 thru 9.04 of 10.63 total
+
+IS Test2 Market5-EMD Period3
+Sharpe	4.25
+Param1	1.50
+Param2	21
+Num of Years: 2.90 thru 9.04 of 10.63 total
+
+IS Test3 Market5-EMD Period3
+Sharpe	3.29
+Param1	1.50
+Param2	34
+Num of Years: 2.90 thru 9.04 of 10.63 total
+
+4.45 Max Sharpe of Market5-EMD Period3 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market5-EMD Period3
+OS-Sharpe	1.65
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 9.04 thru 10.49 of 10.63 total
+
+IS Test0 Market5-EMD Period4
+Sharpe	4.01
+Param1	1.25
+Param2	21
+Num of Years: 4.35 thru 10.49 of 10.63 total
+
+IS Test1 Market5-EMD Period4
+Sharpe	3.01
+Param1	1.25
+Param2	34
+Num of Years: 4.35 thru 10.49 of 10.63 total
+
+IS Test2 Market5-EMD Period4
+Sharpe	3.88
+Param1	1.50
+Param2	21
+Num of Years: 4.35 thru 10.49 of 10.63 total
+
+IS Test3 Market5-EMD Period4
+Sharpe	2.92
+Param1	1.50
+Param2	34
+Num of Years: 4.35 thru 10.49 of 10.63 total
+
+4.01 Max Sharpe of Market5-EMD Period4 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market5-EMD Period4
+OS-Sharpe	0.72
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 10.49 thru 10.63 of 10.63 total
+
+IS Test0 Market6-TF Period1
+Sharpe	6.43
+Param1	1.25
+Param2	21
+Num of Years: 0.00 thru 6.14 of 10.88 total
+
+IS Test1 Market6-TF Period1
+Sharpe	5.04
+Param1	1.25
+Param2	34
+Num of Years: 0.00 thru 6.14 of 10.88 total
+
+IS Test2 Market6-TF Period1
+Sharpe	5.99
+Param1	1.50
+Param2	21
+Num of Years: 0.00 thru 6.14 of 10.88 total
+
+IS Test3 Market6-TF Period1
+Sharpe	5.30
+Param1	1.50
+Param2	34
+Num of Years: 0.00 thru 6.14 of 10.88 total
+
+6.43 Max Sharpe of Market6-TF Period1 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market6-TF Period1
+OS-Sharpe	2.51
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 6.14 thru 7.59 of 10.88 total
+
+IS Test0 Market6-TF Period2
+Sharpe	4.92
+Param1	1.25
+Param2	21
+Num of Years: 1.45 thru 7.59 of 10.88 total
+
+IS Test1 Market6-TF Period2
+Sharpe	3.47
+Param1	1.25
+Param2	34
+Num of Years: 1.45 thru 7.59 of 10.88 total
+
+IS Test2 Market6-TF Period2
+Sharpe	4.48
+Param1	1.50
+Param2	21
+Num of Years: 1.45 thru 7.59 of 10.88 total
+
+IS Test3 Market6-TF Period2
+Sharpe	3.85
+Param1	1.50
+Param2	34
+Num of Years: 1.45 thru 7.59 of 10.88 total
+
+4.92 Max Sharpe of Market6-TF Period2 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market6-TF Period2
+OS-Sharpe	2.62
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 7.59 thru 9.04 of 10.88 total
+
+IS Test0 Market6-TF Period3
+Sharpe	4.56
+Param1	1.25
+Param2	21
+Num of Years: 2.90 thru 9.04 of 10.88 total
+
+IS Test1 Market6-TF Period3
+Sharpe	3.35
+Param1	1.25
+Param2	34
+Num of Years: 2.90 thru 9.04 of 10.88 total
+
+IS Test2 Market6-TF Period3
+Sharpe	4.14
+Param1	1.50
+Param2	21
+Num of Years: 2.90 thru 9.04 of 10.88 total
+
+IS Test3 Market6-TF Period3
+Sharpe	3.58
+Param1	1.50
+Param2	34
+Num of Years: 2.90 thru 9.04 of 10.88 total
+
+4.56 Max Sharpe of Market6-TF Period3 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market6-TF Period3
+OS-Sharpe	1.77
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 9.04 thru 10.49 of 10.88 total
+
+IS Test0 Market6-TF Period4
+Sharpe	4.12
+Param1	1.25
+Param2	21
+Num of Years: 4.35 thru 10.49 of 10.88 total
+
+IS Test1 Market6-TF Period4
+Sharpe	3.03
+Param1	1.25
+Param2	34
+Num of Years: 4.35 thru 10.49 of 10.88 total
+
+IS Test2 Market6-TF Period4
+Sharpe	3.80
+Param1	1.50
+Param2	21
+Num of Years: 4.35 thru 10.49 of 10.88 total
+
+IS Test3 Market6-TF Period4
+Sharpe	3.13
+Param1	1.50
+Param2	34
+Num of Years: 4.35 thru 10.49 of 10.88 total
+
+4.12 Max Sharpe of Market6-TF Period4 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market6-TF Period4
+OS-Sharpe	1.19
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 10.49 thru 10.88 of 10.88 total
+
+IS Test0 Market7-FESX Period1
+Sharpe	5.90
+Param1	1.25
+Param2	21
+Num of Years: 0.00 thru 6.14 of 13.75 total
+
+IS Test1 Market7-FESX Period1
+Sharpe	4.29
+Param1	1.25
+Param2	34
+Num of Years: 0.00 thru 6.14 of 13.75 total
+
+IS Test2 Market7-FESX Period1
+Sharpe	5.69
+Param1	1.50
+Param2	21
+Num of Years: 0.00 thru 6.14 of 13.75 total
+
+IS Test3 Market7-FESX Period1
+Sharpe	4.49
+Param1	1.50
+Param2	34
+Num of Years: 0.00 thru 6.14 of 13.75 total
+
+5.90 Max Sharpe of Market7-FESX Period1 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market7-FESX Period1
+OS-Sharpe	2.74
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 6.14 thru 7.59 of 13.75 total
+
+IS Test0 Market7-FESX Period2
+Sharpe	5.07
+Param1	1.25
+Param2	21
+Num of Years: 1.45 thru 7.59 of 13.75 total
+
+IS Test1 Market7-FESX Period2
+Sharpe	3.79
+Param1	1.25
+Param2	34
+Num of Years: 1.45 thru 7.59 of 13.75 total
+
+IS Test2 Market7-FESX Period2
+Sharpe	4.93
+Param1	1.50
+Param2	21
+Num of Years: 1.45 thru 7.59 of 13.75 total
+
+IS Test3 Market7-FESX Period2
+Sharpe	4.01
+Param1	1.50
+Param2	34
+Num of Years: 1.45 thru 7.59 of 13.75 total
+
+5.07 Max Sharpe of Market7-FESX Period2 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market7-FESX Period2
+OS-Sharpe	1.97
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 7.59 thru 9.04 of 13.75 total
+
+IS Test0 Market7-FESX Period3
+Sharpe	4.56
+Param1	1.25
+Param2	21
+Num of Years: 2.90 thru 9.04 of 13.75 total
+
+IS Test1 Market7-FESX Period3
+Sharpe	3.43
+Param1	1.25
+Param2	34
+Num of Years: 2.90 thru 9.04 of 13.75 total
+
+IS Test2 Market7-FESX Period3
+Sharpe	4.36
+Param1	1.50
+Param2	21
+Num of Years: 2.90 thru 9.04 of 13.75 total
+
+IS Test3 Market7-FESX Period3
+Sharpe	3.65
+Param1	1.50
+Param2	34
+Num of Years: 2.90 thru 9.04 of 13.75 total
+
+4.56 Max Sharpe of Market7-FESX Period3 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market7-FESX Period3
+OS-Sharpe	2.06
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 9.04 thru 10.49 of 13.75 total
+
+IS Test0 Market7-FESX Period4
+Sharpe	3.88
+Param1	1.25
+Param2	21
+Num of Years: 4.35 thru 10.49 of 13.75 total
+
+IS Test1 Market7-FESX Period4
+Sharpe	3.14
+Param1	1.25
+Param2	34
+Num of Years: 4.35 thru 10.49 of 13.75 total
+
+IS Test2 Market7-FESX Period4
+Sharpe	4.02
+Param1	1.50
+Param2	21
+Num of Years: 4.35 thru 10.49 of 13.75 total
+
+IS Test3 Market7-FESX Period4
+Sharpe	2.95
+Param1	1.50
+Param2	34
+Num of Years: 4.35 thru 10.49 of 13.75 total
+
+4.02 Max Sharpe of Market7-FESX Period4 is Test 2 with STD 1.50 and MA 21
+
+OS PNL: Market7-FESX Period4
+OS-Sharpe	2.15
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 10.49 thru 11.94 of 13.75 total
+
+IS Test0 Market7-FESX Period5
+Sharpe	3.74
+Param1	1.25
+Param2	21
+Num of Years: 5.80 thru 11.94 of 13.75 total
+
+IS Test1 Market7-FESX Period5
+Sharpe	3.09
+Param1	1.25
+Param2	34
+Num of Years: 5.80 thru 11.94 of 13.75 total
+
+IS Test2 Market7-FESX Period5
+Sharpe	3.86
+Param1	1.50
+Param2	21
+Num of Years: 5.80 thru 11.94 of 13.75 total
+
+IS Test3 Market7-FESX Period5
+Sharpe	2.89
+Param1	1.50
+Param2	34
+Num of Years: 5.80 thru 11.94 of 13.75 total
+
+3.86 Max Sharpe of Market7-FESX Period5 is Test 2 with STD 1.50 and MA 21
+
+OS PNL: Market7-FESX Period5
+OS-Sharpe	1.73
+OS-Param1	1.50
+OS-Param2	21
+Num of Years: 11.94 thru 13.39 of 13.75 total
+
+IS Test0 Market7-FESX Period6
+Sharpe	3.65
+Param1	1.25
+Param2	21
+Num of Years: 7.25 thru 13.39 of 13.75 total
+
+IS Test1 Market7-FESX Period6
+Sharpe	2.98
+Param1	1.25
+Param2	34
+Num of Years: 7.25 thru 13.39 of 13.75 total
+
+IS Test2 Market7-FESX Period6
+Sharpe	3.67
+Param1	1.50
+Param2	21
+Num of Years: 7.25 thru 13.39 of 13.75 total
+
+IS Test3 Market7-FESX Period6
+Sharpe	2.79
+Param1	1.50
+Param2	34
+Num of Years: 7.25 thru 13.39 of 13.75 total
+
+3.67 Max Sharpe of Market7-FESX Period6 is Test 2 with STD 1.50 and MA 21
+
+OS PNL: Market7-FESX Period6
+OS-Sharpe	0.83
+OS-Param1	1.50
+OS-Param2	21
+Num of Years: 13.39 thru 13.75 of 13.75 total
+
+IS Test0 Market8-FDAX Period1
+Sharpe	5.77
+Param1	1.25
+Param2	21
+Num of Years: 0.00 thru 6.14 of 6.22 total
+
+IS Test1 Market8-FDAX Period1
+Sharpe	4.38
+Param1	1.25
+Param2	34
+Num of Years: 0.00 thru 6.14 of 6.22 total
+
+IS Test2 Market8-FDAX Period1
+Sharpe	5.71
+Param1	1.50
+Param2	21
+Num of Years: 0.00 thru 6.14 of 6.22 total
+
+IS Test3 Market8-FDAX Period1
+Sharpe	4.44
+Param1	1.50
+Param2	34
+Num of Years: 0.00 thru 6.14 of 6.22 total
+
+5.77 Max Sharpe of Market8-FDAX Period1 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market8-FDAX Period1
+OS-Sharpe	0.52
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 6.14 thru 6.22 of 6.22 total
+
+IS Test0 Market9-NK Period1
+Sharpe	5.40
+Param1	1.25
+Param2	21
+Num of Years: 0.00 thru 6.14 of 8.02 total
+
+IS Test1 Market9-NK Period1
+Sharpe	3.98
+Param1	1.25
+Param2	34
+Num of Years: 0.00 thru 6.14 of 8.02 total
+
+IS Test2 Market9-NK Period1
+Sharpe	5.37
+Param1	1.50
+Param2	21
+Num of Years: 0.00 thru 6.14 of 8.02 total
+
+IS Test3 Market9-NK Period1
+Sharpe	4.51
+Param1	1.50
+Param2	34
+Num of Years: 0.00 thru 6.14 of 8.02 total
+
+5.40 Max Sharpe of Market9-NK Period1 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market9-NK Period1
+OS-Sharpe	2.02
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 6.14 thru 7.59 of 8.02 total
+
+IS Test0 Market9-NK Period2
+Sharpe	4.66
+Param1	1.25
+Param2	21
+Num of Years: 1.45 thru 7.59 of 8.02 total
+
+IS Test1 Market9-NK Period2
+Sharpe	3.47
+Param1	1.25
+Param2	34
+Num of Years: 1.45 thru 7.59 of 8.02 total
+
+IS Test2 Market9-NK Period2
+Sharpe	4.66
+Param1	1.50
+Param2	21
+Num of Years: 1.45 thru 7.59 of 8.02 total
+
+IS Test3 Market9-NK Period2
+Sharpe	3.85
+Param1	1.50
+Param2	34
+Num of Years: 1.45 thru 7.59 of 8.02 total
+
+4.66 Max Sharpe of Market9-NK Period2 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market9-NK Period2
+OS-Sharpe	1.58
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 7.59 thru 8.02 of 8.02 total
+
+IS Test0 Market10-US Period1
+Sharpe	0.22
+Param1	1.25
+Param2	21
+Num of Years: 0.00 thru 6.14 of 34.24 total
+
+IS Test1 Market10-US Period1
+Sharpe	0.19
+Param1	1.25
+Param2	34
+Num of Years: 0.00 thru 6.14 of 34.24 total
+
+IS Test2 Market10-US Period1
+Sharpe	0.24
+Param1	1.50
+Param2	21
+Num of Years: 0.00 thru 6.14 of 34.24 total
+
+IS Test3 Market10-US Period1
+Sharpe	0.26
+Param1	1.50
+Param2	34
+Num of Years: 0.00 thru 6.14 of 34.24 total
+
+0.26 Max Sharpe of Market10-US Period1 is Test 3 with STD 1.50 and MA 34
+
+OS PNL: Market10-US Period1
+OS-Sharpe	-1.88
+OS-Param1	1.50
+OS-Param2	34
+Num of Years: 6.14 thru 7.59 of 34.24 total
+
+IS Test0 Market10-US Period2
+Sharpe	-0.07
+Param1	1.25
+Param2	21
+Num of Years: 1.45 thru 7.59 of 34.24 total
+
+IS Test1 Market10-US Period2
+Sharpe	-0.03
+Param1	1.25
+Param2	34
+Num of Years: 1.45 thru 7.59 of 34.24 total
+
+IS Test2 Market10-US Period2
+Sharpe	-0.00
+Param1	1.50
+Param2	21
+Num of Years: 1.45 thru 7.59 of 34.24 total
+
+IS Test3 Market10-US Period2
+Sharpe	0.04
+Param1	1.50
+Param2	34
+Num of Years: 1.45 thru 7.59 of 34.24 total
+
+0.04 Max Sharpe of Market10-US Period2 is Test 3 with STD 1.50 and MA 34
+
+OS PNL: Market10-US Period2
+OS-Sharpe	0.42
+OS-Param1	1.50
+OS-Param2	34
+Num of Years: 7.59 thru 9.04 of 34.24 total
+
+IS Test0 Market10-US Period3
+Sharpe	-0.51
+Param1	1.25
+Param2	21
+Num of Years: 2.90 thru 9.04 of 34.24 total
+
+IS Test1 Market10-US Period3
+Sharpe	-0.26
+Param1	1.25
+Param2	34
+Num of Years: 2.90 thru 9.04 of 34.24 total
+
+IS Test2 Market10-US Period3
+Sharpe	-0.43
+Param1	1.50
+Param2	21
+Num of Years: 2.90 thru 9.04 of 34.24 total
+
+IS Test3 Market10-US Period3
+Sharpe	-0.28
+Param1	1.50
+Param2	34
+Num of Years: 2.90 thru 9.04 of 34.24 total
+
+-0.28 Max Sharpe of Market10-US Period3 is Test 3 with STD 1.50 and MA 34
+
+OS PNL: Market10-US Period3
+OS-Sharpe	1.62
+OS-Param1	1.50
+OS-Param2	34
+Num of Years: 9.04 thru 10.49 of 34.24 total
+
+IS Test0 Market10-US Period4
+Sharpe	0.22
+Param1	1.25
+Param2	21
+Num of Years: 4.35 thru 10.49 of 34.24 total
+
+IS Test1 Market10-US Period4
+Sharpe	0.30
+Param1	1.25
+Param2	34
+Num of Years: 4.35 thru 10.49 of 34.24 total
+
+IS Test2 Market10-US Period4
+Sharpe	0.22
+Param1	1.50
+Param2	21
+Num of Years: 4.35 thru 10.49 of 34.24 total
+
+IS Test3 Market10-US Period4
+Sharpe	0.27
+Param1	1.50
+Param2	34
+Num of Years: 4.35 thru 10.49 of 34.24 total
+
+0.30 Max Sharpe of Market10-US Period4 is Test 1 with STD 1.25 and MA 34
+
+OS PNL: Market10-US Period4
+OS-Sharpe	1.54
+OS-Param1	1.50
+OS-Param2	34
+Num of Years: 10.49 thru 11.94 of 34.24 total
+
+IS Test0 Market10-US Period5
+Sharpe	0.62
+Param1	1.25
+Param2	21
+Num of Years: 5.80 thru 11.94 of 34.24 total
+
+IS Test1 Market10-US Period5
+Sharpe	0.66
+Param1	1.25
+Param2	34
+Num of Years: 5.80 thru 11.94 of 34.24 total
+
+IS Test2 Market10-US Period5
+Sharpe	0.55
+Param1	1.50
+Param2	21
+Num of Years: 5.80 thru 11.94 of 34.24 total
+
+IS Test3 Market10-US Period5
+Sharpe	0.59
+Param1	1.50
+Param2	34
+Num of Years: 5.80 thru 11.94 of 34.24 total
+
+0.66 Max Sharpe of Market10-US Period5 is Test 1 with STD 1.25 and MA 34
+
+OS PNL: Market10-US Period5
+OS-Sharpe	1.62
+OS-Param1	1.25
+OS-Param2	34
+Num of Years: 11.94 thru 13.39 of 34.24 total
+
+IS Test0 Market10-US Period6
+Sharpe	0.89
+Param1	1.25
+Param2	21
+Num of Years: 7.25 thru 13.39 of 34.24 total
+
+IS Test1 Market10-US Period6
+Sharpe	0.87
+Param1	1.25
+Param2	34
+Num of Years: 7.25 thru 13.39 of 34.24 total
+
+IS Test2 Market10-US Period6
+Sharpe	0.79
+Param1	1.50
+Param2	21
+Num of Years: 7.25 thru 13.39 of 34.24 total
+
+IS Test3 Market10-US Period6
+Sharpe	0.80
+Param1	1.50
+Param2	34
+Num of Years: 7.25 thru 13.39 of 34.24 total
+
+0.89 Max Sharpe of Market10-US Period6 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market10-US Period6
+OS-Sharpe	1.61
+OS-Param1	1.25
+OS-Param2	34
+Num of Years: 13.39 thru 14.84 of 34.24 total
+
+IS Test0 Market10-US Period7
+Sharpe	2.94
+Param1	1.25
+Param2	21
+Num of Years: 8.70 thru 14.84 of 34.24 total
+
+IS Test1 Market10-US Period7
+Sharpe	2.58
+Param1	1.25
+Param2	34
+Num of Years: 8.70 thru 14.84 of 34.24 total
+
+IS Test2 Market10-US Period7
+Sharpe	2.86
+Param1	1.50
+Param2	21
+Num of Years: 8.70 thru 14.84 of 34.24 total
+
+IS Test3 Market10-US Period7
+Sharpe	2.61
+Param1	1.50
+Param2	34
+Num of Years: 8.70 thru 14.84 of 34.24 total
+
+2.94 Max Sharpe of Market10-US Period7 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market10-US Period7
+OS-Sharpe	1.88
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 14.84 thru 16.29 of 34.24 total
+
+IS Test0 Market10-US Period8
+Sharpe	3.51
+Param1	1.25
+Param2	21
+Num of Years: 10.15 thru 16.29 of 34.24 total
+
+IS Test1 Market10-US Period8
+Sharpe	2.94
+Param1	1.25
+Param2	34
+Num of Years: 10.15 thru 16.29 of 34.24 total
+
+IS Test2 Market10-US Period8
+Sharpe	3.24
+Param1	1.50
+Param2	21
+Num of Years: 10.15 thru 16.29 of 34.24 total
+
+IS Test3 Market10-US Period8
+Sharpe	2.92
+Param1	1.50
+Param2	34
+Num of Years: 10.15 thru 16.29 of 34.24 total
+
+3.51 Max Sharpe of Market10-US Period8 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market10-US Period8
+OS-Sharpe	1.61
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 16.29 thru 17.74 of 34.24 total
+
+IS Test0 Market10-US Period9
+Sharpe	3.41
+Param1	1.25
+Param2	21
+Num of Years: 11.60 thru 17.74 of 34.24 total
+
+IS Test1 Market10-US Period9
+Sharpe	2.80
+Param1	1.25
+Param2	34
+Num of Years: 11.60 thru 17.74 of 34.24 total
+
+IS Test2 Market10-US Period9
+Sharpe	3.22
+Param1	1.50
+Param2	21
+Num of Years: 11.60 thru 17.74 of 34.24 total
+
+IS Test3 Market10-US Period9
+Sharpe	2.87
+Param1	1.50
+Param2	34
+Num of Years: 11.60 thru 17.74 of 34.24 total
+
+3.41 Max Sharpe of Market10-US Period9 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market10-US Period9
+OS-Sharpe	1.47
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 17.74 thru 19.19 of 34.24 total
+
+IS Test0 Market10-US Period10
+Sharpe	3.37
+Param1	1.25
+Param2	21
+Num of Years: 13.05 thru 19.19 of 34.24 total
+
+IS Test1 Market10-US Period10
+Sharpe	2.84
+Param1	1.25
+Param2	34
+Num of Years: 13.05 thru 19.19 of 34.24 total
+
+IS Test2 Market10-US Period10
+Sharpe	3.22
+Param1	1.50
+Param2	21
+Num of Years: 13.05 thru 19.19 of 34.24 total
+
+IS Test3 Market10-US Period10
+Sharpe	2.84
+Param1	1.50
+Param2	34
+Num of Years: 13.05 thru 19.19 of 34.24 total
+
+3.37 Max Sharpe of Market10-US Period10 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market10-US Period10
+OS-Sharpe	1.58
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 19.19 thru 20.64 of 34.24 total
+
+IS Test0 Market10-US Period11
+Sharpe	3.18
+Param1	1.25
+Param2	21
+Num of Years: 14.50 thru 20.64 of 34.24 total
+
+IS Test1 Market10-US Period11
+Sharpe	2.68
+Param1	1.25
+Param2	34
+Num of Years: 14.50 thru 20.64 of 34.24 total
+
+IS Test2 Market10-US Period11
+Sharpe	3.00
+Param1	1.50
+Param2	21
+Num of Years: 14.50 thru 20.64 of 34.24 total
+
+IS Test3 Market10-US Period11
+Sharpe	2.72
+Param1	1.50
+Param2	34
+Num of Years: 14.50 thru 20.64 of 34.24 total
+
+3.18 Max Sharpe of Market10-US Period11 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market10-US Period11
+OS-Sharpe	1.65
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 20.64 thru 22.09 of 34.24 total
+
+IS Test0 Market10-US Period12
+Sharpe	3.07
+Param1	1.25
+Param2	21
+Num of Years: 15.95 thru 22.09 of 34.24 total
+
+IS Test1 Market10-US Period12
+Sharpe	2.45
+Param1	1.25
+Param2	34
+Num of Years: 15.95 thru 22.09 of 34.24 total
+
+IS Test2 Market10-US Period12
+Sharpe	2.90
+Param1	1.50
+Param2	21
+Num of Years: 15.95 thru 22.09 of 34.24 total
+
+IS Test3 Market10-US Period12
+Sharpe	2.61
+Param1	1.50
+Param2	34
+Num of Years: 15.95 thru 22.09 of 34.24 total
+
+3.07 Max Sharpe of Market10-US Period12 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market10-US Period12
+OS-Sharpe	1.49
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 22.09 thru 23.54 of 34.24 total
+
+IS Test0 Market10-US Period13
+Sharpe	3.05
+Param1	1.25
+Param2	21
+Num of Years: 17.40 thru 23.54 of 34.24 total
+
+IS Test1 Market10-US Period13
+Sharpe	2.48
+Param1	1.25
+Param2	34
+Num of Years: 17.40 thru 23.54 of 34.24 total
+
+IS Test2 Market10-US Period13
+Sharpe	2.90
+Param1	1.50
+Param2	21
+Num of Years: 17.40 thru 23.54 of 34.24 total
+
+IS Test3 Market10-US Period13
+Sharpe	2.57
+Param1	1.50
+Param2	34
+Num of Years: 17.40 thru 23.54 of 34.24 total
+
+3.05 Max Sharpe of Market10-US Period13 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market10-US Period13
+OS-Sharpe	1.54
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 23.54 thru 24.99 of 34.24 total
+
+IS Test0 Market10-US Period14
+Sharpe	3.11
+Param1	1.25
+Param2	21
+Num of Years: 18.85 thru 24.99 of 34.24 total
+
+IS Test1 Market10-US Period14
+Sharpe	2.49
+Param1	1.25
+Param2	34
+Num of Years: 18.85 thru 24.99 of 34.24 total
+
+IS Test2 Market10-US Period14
+Sharpe	2.99
+Param1	1.50
+Param2	21
+Num of Years: 18.85 thru 24.99 of 34.24 total
+
+IS Test3 Market10-US Period14
+Sharpe	2.59
+Param1	1.50
+Param2	34
+Num of Years: 18.85 thru 24.99 of 34.24 total
+
+3.11 Max Sharpe of Market10-US Period14 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market10-US Period14
+OS-Sharpe	1.36
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 24.99 thru 26.44 of 34.24 total
+
+IS Test0 Market10-US Period15
+Sharpe	3.01
+Param1	1.25
+Param2	21
+Num of Years: 20.30 thru 26.44 of 34.24 total
+
+IS Test1 Market10-US Period15
+Sharpe	2.46
+Param1	1.25
+Param2	34
+Num of Years: 20.30 thru 26.44 of 34.24 total
+
+IS Test2 Market10-US Period15
+Sharpe	2.96
+Param1	1.50
+Param2	21
+Num of Years: 20.30 thru 26.44 of 34.24 total
+
+IS Test3 Market10-US Period15
+Sharpe	2.50
+Param1	1.50
+Param2	34
+Num of Years: 20.30 thru 26.44 of 34.24 total
+
+3.01 Max Sharpe of Market10-US Period15 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market10-US Period15
+OS-Sharpe	1.45
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 26.44 thru 27.89 of 34.24 total
+
+IS Test0 Market10-US Period16
+Sharpe	2.86
+Param1	1.25
+Param2	21
+Num of Years: 21.75 thru 27.89 of 34.24 total
+
+IS Test1 Market10-US Period16
+Sharpe	2.38
+Param1	1.25
+Param2	34
+Num of Years: 21.75 thru 27.89 of 34.24 total
+
+IS Test2 Market10-US Period16
+Sharpe	2.86
+Param1	1.50
+Param2	21
+Num of Years: 21.75 thru 27.89 of 34.24 total
+
+IS Test3 Market10-US Period16
+Sharpe	2.40
+Param1	1.50
+Param2	34
+Num of Years: 21.75 thru 27.89 of 34.24 total
+
+2.86 Max Sharpe of Market10-US Period16 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market10-US Period16
+OS-Sharpe	1.39
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 27.89 thru 29.34 of 34.24 total
+
+IS Test0 Market10-US Period17
+Sharpe	2.71
+Param1	1.25
+Param2	21
+Num of Years: 23.20 thru 29.34 of 34.24 total
+
+IS Test1 Market10-US Period17
+Sharpe	2.29
+Param1	1.25
+Param2	34
+Num of Years: 23.20 thru 29.34 of 34.24 total
+
+IS Test2 Market10-US Period17
+Sharpe	2.72
+Param1	1.50
+Param2	21
+Num of Years: 23.20 thru 29.34 of 34.24 total
+
+IS Test3 Market10-US Period17
+Sharpe	2.28
+Param1	1.50
+Param2	34
+Num of Years: 23.20 thru 29.34 of 34.24 total
+
+2.72 Max Sharpe of Market10-US Period17 is Test 2 with STD 1.50 and MA 21
+
+OS PNL: Market10-US Period17
+OS-Sharpe	1.52
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 29.34 thru 30.79 of 34.24 total
+
+IS Test0 Market10-US Period18
+Sharpe	2.78
+Param1	1.25
+Param2	21
+Num of Years: 24.65 thru 30.79 of 34.24 total
+
+IS Test1 Market10-US Period18
+Sharpe	2.27
+Param1	1.25
+Param2	34
+Num of Years: 24.65 thru 30.79 of 34.24 total
+
+IS Test2 Market10-US Period18
+Sharpe	2.65
+Param1	1.50
+Param2	21
+Num of Years: 24.65 thru 30.79 of 34.24 total
+
+IS Test3 Market10-US Period18
+Sharpe	2.37
+Param1	1.50
+Param2	34
+Num of Years: 24.65 thru 30.79 of 34.24 total
+
+2.78 Max Sharpe of Market10-US Period18 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market10-US Period18
+OS-Sharpe	1.19
+OS-Param1	1.50
+OS-Param2	21
+Num of Years: 30.79 thru 32.24 of 34.24 total
+
+IS Test0 Market10-US Period19
+Sharpe	2.78
+Param1	1.25
+Param2	21
+Num of Years: 26.10 thru 32.24 of 34.24 total
+
+IS Test1 Market10-US Period19
+Sharpe	2.20
+Param1	1.25
+Param2	34
+Num of Years: 26.10 thru 32.24 of 34.24 total
+
+IS Test2 Market10-US Period19
+Sharpe	2.50
+Param1	1.50
+Param2	21
+Num of Years: 26.10 thru 32.24 of 34.24 total
+
+IS Test3 Market10-US Period19
+Sharpe	2.23
+Param1	1.50
+Param2	34
+Num of Years: 26.10 thru 32.24 of 34.24 total
+
+2.78 Max Sharpe of Market10-US Period19 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market10-US Period19
+OS-Sharpe	1.21
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 32.24 thru 33.69 of 34.24 total
+
+IS Test0 Market10-US Period20
+Sharpe	2.68
+Param1	1.25
+Param2	21
+Num of Years: 27.55 thru 33.69 of 34.24 total
+
+IS Test1 Market10-US Period20
+Sharpe	2.12
+Param1	1.25
+Param2	34
+Num of Years: 27.55 thru 33.69 of 34.24 total
+
+IS Test2 Market10-US Period20
+Sharpe	2.46
+Param1	1.50
+Param2	21
+Num of Years: 27.55 thru 33.69 of 34.24 total
+
+IS Test3 Market10-US Period20
+Sharpe	2.08
+Param1	1.50
+Param2	34
+Num of Years: 27.55 thru 33.69 of 34.24 total
+
+2.68 Max Sharpe of Market10-US Period20 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market10-US Period20
+OS-Sharpe	0.71
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 33.69 thru 34.24 of 34.24 total
+
+IS Test0 Market11-TY Period1
+Sharpe	-0.37
+Param1	1.25
+Param2	21
+Num of Years: 0.00 thru 6.14 of 29.68 total
+
+IS Test1 Market11-TY Period1
+Sharpe	-0.02
+Param1	1.25
+Param2	34
+Num of Years: 0.00 thru 6.14 of 29.68 total
+
+IS Test2 Market11-TY Period1
+Sharpe	-0.30
+Param1	1.50
+Param2	21
+Num of Years: 0.00 thru 6.14 of 29.68 total
+
+IS Test3 Market11-TY Period1
+Sharpe	-0.07
+Param1	1.50
+Param2	34
+Num of Years: 0.00 thru 6.14 of 29.68 total
+
+-0.07 Max Sharpe of Market11-TY Period1 is Test 3 with STD 1.50 and MA 34
+
+OS PNL: Market11-TY Period1
+OS-Sharpe	2.25
+OS-Param1	1.50
+OS-Param2	34
+Num of Years: 6.14 thru 7.59 of 29.68 total
+
+IS Test0 Market11-TY Period2
+Sharpe	0.38
+Param1	1.25
+Param2	21
+Num of Years: 1.45 thru 7.59 of 29.68 total
+
+IS Test1 Market11-TY Period2
+Sharpe	0.54
+Param1	1.25
+Param2	34
+Num of Years: 1.45 thru 7.59 of 29.68 total
+
+IS Test2 Market11-TY Period2
+Sharpe	0.39
+Param1	1.50
+Param2	21
+Num of Years: 1.45 thru 7.59 of 29.68 total
+
+IS Test3 Market11-TY Period2
+Sharpe	0.44
+Param1	1.50
+Param2	34
+Num of Years: 1.45 thru 7.59 of 29.68 total
+
+0.54 Max Sharpe of Market11-TY Period2 is Test 1 with STD 1.25 and MA 34
+
+OS PNL: Market11-TY Period2
+OS-Sharpe	2.04
+OS-Param1	1.50
+OS-Param2	34
+Num of Years: 7.59 thru 9.04 of 29.68 total
+
+IS Test0 Market11-TY Period3
+Sharpe	1.12
+Param1	1.25
+Param2	21
+Num of Years: 2.90 thru 9.04 of 29.68 total
+
+IS Test1 Market11-TY Period3
+Sharpe	0.99
+Param1	1.25
+Param2	34
+Num of Years: 2.90 thru 9.04 of 29.68 total
+
+IS Test2 Market11-TY Period3
+Sharpe	1.05
+Param1	1.50
+Param2	21
+Num of Years: 2.90 thru 9.04 of 29.68 total
+
+IS Test3 Market11-TY Period3
+Sharpe	0.93
+Param1	1.50
+Param2	34
+Num of Years: 2.90 thru 9.04 of 29.68 total
+
+1.12 Max Sharpe of Market11-TY Period3 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market11-TY Period3
+OS-Sharpe	2.06
+OS-Param1	1.25
+OS-Param2	34
+Num of Years: 9.04 thru 10.49 of 29.68 total
+
+IS Test0 Market11-TY Period4
+Sharpe	4.18
+Param1	1.25
+Param2	21
+Num of Years: 4.35 thru 10.49 of 29.68 total
+
+IS Test1 Market11-TY Period4
+Sharpe	3.52
+Param1	1.25
+Param2	34
+Num of Years: 4.35 thru 10.49 of 29.68 total
+
+IS Test2 Market11-TY Period4
+Sharpe	3.91
+Param1	1.50
+Param2	21
+Num of Years: 4.35 thru 10.49 of 29.68 total
+
+IS Test3 Market11-TY Period4
+Sharpe	3.62
+Param1	1.50
+Param2	34
+Num of Years: 4.35 thru 10.49 of 29.68 total
+
+4.18 Max Sharpe of Market11-TY Period4 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market11-TY Period4
+OS-Sharpe	1.98
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 10.49 thru 11.94 of 29.68 total
+
+IS Test0 Market11-TY Period5
+Sharpe	4.23
+Param1	1.25
+Param2	21
+Num of Years: 5.80 thru 11.94 of 29.68 total
+
+IS Test1 Market11-TY Period5
+Sharpe	3.60
+Param1	1.25
+Param2	34
+Num of Years: 5.80 thru 11.94 of 29.68 total
+
+IS Test2 Market11-TY Period5
+Sharpe	3.83
+Param1	1.50
+Param2	21
+Num of Years: 5.80 thru 11.94 of 29.68 total
+
+IS Test3 Market11-TY Period5
+Sharpe	3.58
+Param1	1.50
+Param2	34
+Num of Years: 5.80 thru 11.94 of 29.68 total
+
+4.23 Max Sharpe of Market11-TY Period5 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market11-TY Period5
+OS-Sharpe	1.99
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 11.94 thru 13.39 of 29.68 total
+
+IS Test0 Market11-TY Period6
+Sharpe	4.11
+Param1	1.25
+Param2	21
+Num of Years: 7.25 thru 13.39 of 29.68 total
+
+IS Test1 Market11-TY Period6
+Sharpe	3.47
+Param1	1.25
+Param2	34
+Num of Years: 7.25 thru 13.39 of 29.68 total
+
+IS Test2 Market11-TY Period6
+Sharpe	3.68
+Param1	1.50
+Param2	21
+Num of Years: 7.25 thru 13.39 of 29.68 total
+
+IS Test3 Market11-TY Period6
+Sharpe	3.52
+Param1	1.50
+Param2	34
+Num of Years: 7.25 thru 13.39 of 29.68 total
+
+4.11 Max Sharpe of Market11-TY Period6 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market11-TY Period6
+OS-Sharpe	1.67
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 13.39 thru 14.84 of 29.68 total
+
+IS Test0 Market11-TY Period7
+Sharpe	3.83
+Param1	1.25
+Param2	21
+Num of Years: 8.70 thru 14.84 of 29.68 total
+
+IS Test1 Market11-TY Period7
+Sharpe	3.23
+Param1	1.25
+Param2	34
+Num of Years: 8.70 thru 14.84 of 29.68 total
+
+IS Test2 Market11-TY Period7
+Sharpe	3.59
+Param1	1.50
+Param2	21
+Num of Years: 8.70 thru 14.84 of 29.68 total
+
+IS Test3 Market11-TY Period7
+Sharpe	3.31
+Param1	1.50
+Param2	34
+Num of Years: 8.70 thru 14.84 of 29.68 total
+
+3.83 Max Sharpe of Market11-TY Period7 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market11-TY Period7
+OS-Sharpe	1.43
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 14.84 thru 16.29 of 29.68 total
+
+IS Test0 Market11-TY Period8
+Sharpe	3.39
+Param1	1.25
+Param2	21
+Num of Years: 10.15 thru 16.29 of 29.68 total
+
+IS Test1 Market11-TY Period8
+Sharpe	2.84
+Param1	1.25
+Param2	34
+Num of Years: 10.15 thru 16.29 of 29.68 total
+
+IS Test2 Market11-TY Period8
+Sharpe	3.28
+Param1	1.50
+Param2	21
+Num of Years: 10.15 thru 16.29 of 29.68 total
+
+IS Test3 Market11-TY Period8
+Sharpe	2.97
+Param1	1.50
+Param2	34
+Num of Years: 10.15 thru 16.29 of 29.68 total
+
+3.39 Max Sharpe of Market11-TY Period8 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market11-TY Period8
+OS-Sharpe	1.77
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 16.29 thru 17.74 of 29.68 total
+
+IS Test0 Market11-TY Period9
+Sharpe	3.24
+Param1	1.25
+Param2	21
+Num of Years: 11.60 thru 17.74 of 29.68 total
+
+IS Test1 Market11-TY Period9
+Sharpe	2.67
+Param1	1.25
+Param2	34
+Num of Years: 11.60 thru 17.74 of 29.68 total
+
+IS Test2 Market11-TY Period9
+Sharpe	3.17
+Param1	1.50
+Param2	21
+Num of Years: 11.60 thru 17.74 of 29.68 total
+
+IS Test3 Market11-TY Period9
+Sharpe	2.87
+Param1	1.50
+Param2	34
+Num of Years: 11.60 thru 17.74 of 29.68 total
+
+3.24 Max Sharpe of Market11-TY Period9 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market11-TY Period9
+OS-Sharpe	1.64
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 17.74 thru 19.19 of 29.68 total
+
+IS Test0 Market11-TY Period10
+Sharpe	3.19
+Param1	1.25
+Param2	21
+Num of Years: 13.05 thru 19.19 of 29.68 total
+
+IS Test1 Market11-TY Period10
+Sharpe	2.53
+Param1	1.25
+Param2	34
+Num of Years: 13.05 thru 19.19 of 29.68 total
+
+IS Test2 Market11-TY Period10
+Sharpe	3.06
+Param1	1.50
+Param2	21
+Num of Years: 13.05 thru 19.19 of 29.68 total
+
+IS Test3 Market11-TY Period10
+Sharpe	2.65
+Param1	1.50
+Param2	34
+Num of Years: 13.05 thru 19.19 of 29.68 total
+
+3.19 Max Sharpe of Market11-TY Period10 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market11-TY Period10
+OS-Sharpe	1.72
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 19.19 thru 20.64 of 29.68 total
+
+IS Test0 Market11-TY Period11
+Sharpe	3.28
+Param1	1.25
+Param2	21
+Num of Years: 14.50 thru 20.64 of 29.68 total
+
+IS Test1 Market11-TY Period11
+Sharpe	2.59
+Param1	1.25
+Param2	34
+Num of Years: 14.50 thru 20.64 of 29.68 total
+
+IS Test2 Market11-TY Period11
+Sharpe	3.20
+Param1	1.50
+Param2	21
+Num of Years: 14.50 thru 20.64 of 29.68 total
+
+IS Test3 Market11-TY Period11
+Sharpe	2.77
+Param1	1.50
+Param2	34
+Num of Years: 14.50 thru 20.64 of 29.68 total
+
+3.28 Max Sharpe of Market11-TY Period11 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market11-TY Period11
+OS-Sharpe	1.42
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 20.64 thru 22.09 of 29.68 total
+
+IS Test0 Market11-TY Period12
+Sharpe	3.19
+Param1	1.25
+Param2	21
+Num of Years: 15.95 thru 22.09 of 29.68 total
+
+IS Test1 Market11-TY Period12
+Sharpe	2.51
+Param1	1.25
+Param2	34
+Num of Years: 15.95 thru 22.09 of 29.68 total
+
+IS Test2 Market11-TY Period12
+Sharpe	3.10
+Param1	1.50
+Param2	21
+Num of Years: 15.95 thru 22.09 of 29.68 total
+
+IS Test3 Market11-TY Period12
+Sharpe	2.58
+Param1	1.50
+Param2	34
+Num of Years: 15.95 thru 22.09 of 29.68 total
+
+3.19 Max Sharpe of Market11-TY Period12 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market11-TY Period12
+OS-Sharpe	1.70
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 22.09 thru 23.54 of 29.68 total
+
+IS Test0 Market11-TY Period13
+Sharpe	3.13
+Param1	1.25
+Param2	21
+Num of Years: 17.40 thru 23.54 of 29.68 total
+
+IS Test1 Market11-TY Period13
+Sharpe	2.48
+Param1	1.25
+Param2	34
+Num of Years: 17.40 thru 23.54 of 29.68 total
+
+IS Test2 Market11-TY Period13
+Sharpe	2.96
+Param1	1.50
+Param2	21
+Num of Years: 17.40 thru 23.54 of 29.68 total
+
+IS Test3 Market11-TY Period13
+Sharpe	2.49
+Param1	1.50
+Param2	34
+Num of Years: 17.40 thru 23.54 of 29.68 total
+
+3.13 Max Sharpe of Market11-TY Period13 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market11-TY Period13
+OS-Sharpe	1.51
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 23.54 thru 24.99 of 29.68 total
+
+IS Test0 Market11-TY Period14
+Sharpe	2.98
+Param1	1.25
+Param2	21
+Num of Years: 18.85 thru 24.99 of 29.68 total
+
+IS Test1 Market11-TY Period14
+Sharpe	2.37
+Param1	1.25
+Param2	34
+Num of Years: 18.85 thru 24.99 of 29.68 total
+
+IS Test2 Market11-TY Period14
+Sharpe	2.90
+Param1	1.50
+Param2	21
+Num of Years: 18.85 thru 24.99 of 29.68 total
+
+IS Test3 Market11-TY Period14
+Sharpe	2.42
+Param1	1.50
+Param2	34
+Num of Years: 18.85 thru 24.99 of 29.68 total
+
+2.98 Max Sharpe of Market11-TY Period14 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market11-TY Period14
+OS-Sharpe	1.29
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 24.99 thru 26.44 of 29.68 total
+
+IS Test0 Market11-TY Period15
+Sharpe	2.80
+Param1	1.25
+Param2	21
+Num of Years: 20.30 thru 26.44 of 29.68 total
+
+IS Test1 Market11-TY Period15
+Sharpe	2.28
+Param1	1.25
+Param2	34
+Num of Years: 20.30 thru 26.44 of 29.68 total
+
+IS Test2 Market11-TY Period15
+Sharpe	2.74
+Param1	1.50
+Param2	21
+Num of Years: 20.30 thru 26.44 of 29.68 total
+
+IS Test3 Market11-TY Period15
+Sharpe	2.32
+Param1	1.50
+Param2	34
+Num of Years: 20.30 thru 26.44 of 29.68 total
+
+2.80 Max Sharpe of Market11-TY Period15 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market11-TY Period15
+OS-Sharpe	1.39
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 26.44 thru 27.89 of 29.68 total
+
+IS Test0 Market11-TY Period16
+Sharpe	2.73
+Param1	1.25
+Param2	21
+Num of Years: 21.75 thru 27.89 of 29.68 total
+
+IS Test1 Market11-TY Period16
+Sharpe	2.14
+Param1	1.25
+Param2	34
+Num of Years: 21.75 thru 27.89 of 29.68 total
+
+IS Test2 Market11-TY Period16
+Sharpe	2.69
+Param1	1.50
+Param2	21
+Num of Years: 21.75 thru 27.89 of 29.68 total
+
+IS Test3 Market11-TY Period16
+Sharpe	2.21
+Param1	1.50
+Param2	34
+Num of Years: 21.75 thru 27.89 of 29.68 total
+
+2.73 Max Sharpe of Market11-TY Period16 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market11-TY Period16
+OS-Sharpe	1.35
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 27.89 thru 29.34 of 29.68 total
+
+IS Test0 Market11-TY Period17
+Sharpe	2.63
+Param1	1.25
+Param2	21
+Num of Years: 23.20 thru 29.34 of 29.68 total
+
+IS Test1 Market11-TY Period17
+Sharpe	2.04
+Param1	1.25
+Param2	34
+Num of Years: 23.20 thru 29.34 of 29.68 total
+
+IS Test2 Market11-TY Period17
+Sharpe	2.58
+Param1	1.50
+Param2	21
+Num of Years: 23.20 thru 29.34 of 29.68 total
+
+IS Test3 Market11-TY Period17
+Sharpe	2.11
+Param1	1.50
+Param2	34
+Num of Years: 23.20 thru 29.34 of 29.68 total
+
+2.63 Max Sharpe of Market11-TY Period17 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market11-TY Period17
+OS-Sharpe	0.54
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 29.34 thru 29.68 of 29.68 total
+
+IS Test0 Market12-TU Period1
+Sharpe	5.75
+Param1	1.25
+Param2	21
+Num of Years: 0.00 thru 6.14 of 19.40 total
+
+IS Test1 Market12-TU Period1
+Sharpe	4.79
+Param1	1.25
+Param2	34
+Num of Years: 0.00 thru 6.14 of 19.40 total
+
+IS Test2 Market12-TU Period1
+Sharpe	5.40
+Param1	1.50
+Param2	21
+Num of Years: 0.00 thru 6.14 of 19.40 total
+
+IS Test3 Market12-TU Period1
+Sharpe	5.10
+Param1	1.50
+Param2	34
+Num of Years: 0.00 thru 6.14 of 19.40 total
+
+5.75 Max Sharpe of Market12-TU Period1 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market12-TU Period1
+OS-Sharpe	2.04
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 6.14 thru 7.59 of 19.40 total
+
+IS Test0 Market12-TU Period2
+Sharpe	4.75
+Param1	1.25
+Param2	21
+Num of Years: 1.45 thru 7.59 of 19.40 total
+
+IS Test1 Market12-TU Period2
+Sharpe	4.20
+Param1	1.25
+Param2	34
+Num of Years: 1.45 thru 7.59 of 19.40 total
+
+IS Test2 Market12-TU Period2
+Sharpe	4.51
+Param1	1.50
+Param2	21
+Num of Years: 1.45 thru 7.59 of 19.40 total
+
+IS Test3 Market12-TU Period2
+Sharpe	4.28
+Param1	1.50
+Param2	34
+Num of Years: 1.45 thru 7.59 of 19.40 total
+
+4.75 Max Sharpe of Market12-TU Period2 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market12-TU Period2
+OS-Sharpe	1.82
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 7.59 thru 9.04 of 19.40 total
+
+IS Test0 Market12-TU Period3
+Sharpe	3.85
+Param1	1.25
+Param2	21
+Num of Years: 2.90 thru 9.04 of 19.40 total
+
+IS Test1 Market12-TU Period3
+Sharpe	3.44
+Param1	1.25
+Param2	34
+Num of Years: 2.90 thru 9.04 of 19.40 total
+
+IS Test2 Market12-TU Period3
+Sharpe	3.83
+Param1	1.50
+Param2	21
+Num of Years: 2.90 thru 9.04 of 19.40 total
+
+IS Test3 Market12-TU Period3
+Sharpe	3.44
+Param1	1.50
+Param2	34
+Num of Years: 2.90 thru 9.04 of 19.40 total
+
+3.85 Max Sharpe of Market12-TU Period3 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market12-TU Period3
+OS-Sharpe	2.48
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 9.04 thru 10.49 of 19.40 total
+
+IS Test0 Market12-TU Period4
+Sharpe	3.76
+Param1	1.25
+Param2	21
+Num of Years: 4.35 thru 10.49 of 19.40 total
+
+IS Test1 Market12-TU Period4
+Sharpe	3.26
+Param1	1.25
+Param2	34
+Num of Years: 4.35 thru 10.49 of 19.40 total
+
+IS Test2 Market12-TU Period4
+Sharpe	3.76
+Param1	1.50
+Param2	21
+Num of Years: 4.35 thru 10.49 of 19.40 total
+
+IS Test3 Market12-TU Period4
+Sharpe	3.27
+Param1	1.50
+Param2	34
+Num of Years: 4.35 thru 10.49 of 19.40 total
+
+3.76 Max Sharpe of Market12-TU Period4 is Test 2 with STD 1.50 and MA 21
+
+OS PNL: Market12-TU Period4
+OS-Sharpe	1.92
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 10.49 thru 11.94 of 19.40 total
+
+IS Test0 Market12-TU Period5
+Sharpe	3.57
+Param1	1.25
+Param2	21
+Num of Years: 5.80 thru 11.94 of 19.40 total
+
+IS Test1 Market12-TU Period5
+Sharpe	3.10
+Param1	1.25
+Param2	34
+Num of Years: 5.80 thru 11.94 of 19.40 total
+
+IS Test2 Market12-TU Period5
+Sharpe	3.52
+Param1	1.50
+Param2	21
+Num of Years: 5.80 thru 11.94 of 19.40 total
+
+IS Test3 Market12-TU Period5
+Sharpe	3.08
+Param1	1.50
+Param2	34
+Num of Years: 5.80 thru 11.94 of 19.40 total
+
+3.57 Max Sharpe of Market12-TU Period5 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market12-TU Period5
+OS-Sharpe	1.90
+OS-Param1	1.50
+OS-Param2	21
+Num of Years: 11.94 thru 13.39 of 19.40 total
+
+IS Test0 Market12-TU Period6
+Sharpe	3.29
+Param1	1.25
+Param2	21
+Num of Years: 7.25 thru 13.39 of 19.40 total
+
+IS Test1 Market12-TU Period6
+Sharpe	2.87
+Param1	1.25
+Param2	34
+Num of Years: 7.25 thru 13.39 of 19.40 total
+
+IS Test2 Market12-TU Period6
+Sharpe	3.17
+Param1	1.50
+Param2	21
+Num of Years: 7.25 thru 13.39 of 19.40 total
+
+IS Test3 Market12-TU Period6
+Sharpe	2.75
+Param1	1.50
+Param2	34
+Num of Years: 7.25 thru 13.39 of 19.40 total
+
+3.29 Max Sharpe of Market12-TU Period6 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market12-TU Period6
+OS-Sharpe	1.95
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 13.39 thru 14.84 of 19.40 total
+
+IS Test0 Market12-TU Period7
+Sharpe	3.94
+Param1	1.25
+Param2	21
+Num of Years: 8.70 thru 14.84 of 19.40 total
+
+IS Test1 Market12-TU Period7
+Sharpe	3.19
+Param1	1.25
+Param2	34
+Num of Years: 8.70 thru 14.84 of 19.40 total
+
+IS Test2 Market12-TU Period7
+Sharpe	3.70
+Param1	1.50
+Param2	21
+Num of Years: 8.70 thru 14.84 of 19.40 total
+
+IS Test3 Market12-TU Period7
+Sharpe	3.23
+Param1	1.50
+Param2	34
+Num of Years: 8.70 thru 14.84 of 19.40 total
+
+3.94 Max Sharpe of Market12-TU Period7 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market12-TU Period7
+OS-Sharpe	1.58
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 14.84 thru 16.29 of 19.40 total
+
+IS Test0 Market12-TU Period8
+Sharpe	3.46
+Param1	1.25
+Param2	21
+Num of Years: 10.15 thru 16.29 of 19.40 total
+
+IS Test1 Market12-TU Period8
+Sharpe	2.90
+Param1	1.25
+Param2	34
+Num of Years: 10.15 thru 16.29 of 19.40 total
+
+IS Test2 Market12-TU Period8
+Sharpe	3.11
+Param1	1.50
+Param2	21
+Num of Years: 10.15 thru 16.29 of 19.40 total
+
+IS Test3 Market12-TU Period8
+Sharpe	2.80
+Param1	1.50
+Param2	34
+Num of Years: 10.15 thru 16.29 of 19.40 total
+
+3.46 Max Sharpe of Market12-TU Period8 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market12-TU Period8
+OS-Sharpe	1.95
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 16.29 thru 17.74 of 19.40 total
+
+IS Test0 Market12-TU Period9
+Sharpe	3.35
+Param1	1.25
+Param2	21
+Num of Years: 11.60 thru 17.74 of 19.40 total
+
+IS Test1 Market12-TU Period9
+Sharpe	2.78
+Param1	1.25
+Param2	34
+Num of Years: 11.60 thru 17.74 of 19.40 total
+
+IS Test2 Market12-TU Period9
+Sharpe	3.03
+Param1	1.50
+Param2	21
+Num of Years: 11.60 thru 17.74 of 19.40 total
+
+IS Test3 Market12-TU Period9
+Sharpe	2.65
+Param1	1.50
+Param2	34
+Num of Years: 11.60 thru 17.74 of 19.40 total
+
+3.35 Max Sharpe of Market12-TU Period9 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market12-TU Period9
+OS-Sharpe	1.63
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 17.74 thru 19.19 of 19.40 total
+
+IS Test0 Market12-TU Period10
+Sharpe	3.03
+Param1	1.25
+Param2	21
+Num of Years: 13.05 thru 19.19 of 19.40 total
+
+IS Test1 Market12-TU Period10
+Sharpe	2.47
+Param1	1.25
+Param2	34
+Num of Years: 13.05 thru 19.19 of 19.40 total
+
+IS Test2 Market12-TU Period10
+Sharpe	2.71
+Param1	1.50
+Param2	21
+Num of Years: 13.05 thru 19.19 of 19.40 total
+
+IS Test3 Market12-TU Period10
+Sharpe	2.37
+Param1	1.50
+Param2	34
+Num of Years: 13.05 thru 19.19 of 19.40 total
+
+3.03 Max Sharpe of Market12-TU Period10 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market12-TU Period10
+OS-Sharpe	0.55
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 19.19 thru 19.40 of 19.40 total
+
+IS Test0 Market13-FGBL Period1
+Sharpe	6.28
+Param1	1.25
+Param2	21
+Num of Years: 0.00 thru 6.14 of 13.76 total
+
+IS Test1 Market13-FGBL Period1
+Sharpe	5.36
+Param1	1.25
+Param2	34
+Num of Years: 0.00 thru 6.14 of 13.76 total
+
+IS Test2 Market13-FGBL Period1
+Sharpe	6.24
+Param1	1.50
+Param2	21
+Num of Years: 0.00 thru 6.14 of 13.76 total
+
+IS Test3 Market13-FGBL Period1
+Sharpe	5.32
+Param1	1.50
+Param2	34
+Num of Years: 0.00 thru 6.14 of 13.76 total
+
+6.28 Max Sharpe of Market13-FGBL Period1 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market13-FGBL Period1
+OS-Sharpe	3.25
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 6.14 thru 7.59 of 13.76 total
+
+IS Test0 Market13-FGBL Period2
+Sharpe	5.94
+Param1	1.25
+Param2	21
+Num of Years: 1.45 thru 7.59 of 13.76 total
+
+IS Test1 Market13-FGBL Period2
+Sharpe	4.85
+Param1	1.25
+Param2	34
+Num of Years: 1.45 thru 7.59 of 13.76 total
+
+IS Test2 Market13-FGBL Period2
+Sharpe	5.76
+Param1	1.50
+Param2	21
+Num of Years: 1.45 thru 7.59 of 13.76 total
+
+IS Test3 Market13-FGBL Period2
+Sharpe	5.00
+Param1	1.50
+Param2	34
+Num of Years: 1.45 thru 7.59 of 13.76 total
+
+5.94 Max Sharpe of Market13-FGBL Period2 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market13-FGBL Period2
+OS-Sharpe	2.78
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 7.59 thru 9.04 of 13.76 total
+
+IS Test0 Market13-FGBL Period3
+Sharpe	5.63
+Param1	1.25
+Param2	21
+Num of Years: 2.90 thru 9.04 of 13.76 total
+
+IS Test1 Market13-FGBL Period3
+Sharpe	4.53
+Param1	1.25
+Param2	34
+Num of Years: 2.90 thru 9.04 of 13.76 total
+
+IS Test2 Market13-FGBL Period3
+Sharpe	5.38
+Param1	1.50
+Param2	21
+Num of Years: 2.90 thru 9.04 of 13.76 total
+
+IS Test3 Market13-FGBL Period3
+Sharpe	4.76
+Param1	1.50
+Param2	34
+Num of Years: 2.90 thru 9.04 of 13.76 total
+
+5.63 Max Sharpe of Market13-FGBL Period3 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market13-FGBL Period3
+OS-Sharpe	2.64
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 9.04 thru 10.49 of 13.76 total
+
+IS Test0 Market13-FGBL Period4
+Sharpe	5.27
+Param1	1.25
+Param2	21
+Num of Years: 4.35 thru 10.49 of 13.76 total
+
+IS Test1 Market13-FGBL Period4
+Sharpe	4.22
+Param1	1.25
+Param2	34
+Num of Years: 4.35 thru 10.49 of 13.76 total
+
+IS Test2 Market13-FGBL Period4
+Sharpe	4.84
+Param1	1.50
+Param2	21
+Num of Years: 4.35 thru 10.49 of 13.76 total
+
+IS Test3 Market13-FGBL Period4
+Sharpe	4.26
+Param1	1.50
+Param2	34
+Num of Years: 4.35 thru 10.49 of 13.76 total
+
+5.27 Max Sharpe of Market13-FGBL Period4 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market13-FGBL Period4
+OS-Sharpe	2.23
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 10.49 thru 11.94 of 13.76 total
+
+IS Test0 Market13-FGBL Period5
+Sharpe	5.01
+Param1	1.25
+Param2	21
+Num of Years: 5.80 thru 11.94 of 13.76 total
+
+IS Test1 Market13-FGBL Period5
+Sharpe	3.80
+Param1	1.25
+Param2	34
+Num of Years: 5.80 thru 11.94 of 13.76 total
+
+IS Test2 Market13-FGBL Period5
+Sharpe	4.59
+Param1	1.50
+Param2	21
+Num of Years: 5.80 thru 11.94 of 13.76 total
+
+IS Test3 Market13-FGBL Period5
+Sharpe	3.91
+Param1	1.50
+Param2	34
+Num of Years: 5.80 thru 11.94 of 13.76 total
+
+5.01 Max Sharpe of Market13-FGBL Period5 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market13-FGBL Period5
+OS-Sharpe	1.89
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 11.94 thru 13.39 of 13.76 total
+
+IS Test0 Market13-FGBL Period6
+Sharpe	4.41
+Param1	1.25
+Param2	21
+Num of Years: 7.25 thru 13.39 of 13.76 total
+
+IS Test1 Market13-FGBL Period6
+Sharpe	3.44
+Param1	1.25
+Param2	34
+Num of Years: 7.25 thru 13.39 of 13.76 total
+
+IS Test2 Market13-FGBL Period6
+Sharpe	4.04
+Param1	1.50
+Param2	21
+Num of Years: 7.25 thru 13.39 of 13.76 total
+
+IS Test3 Market13-FGBL Period6
+Sharpe	3.45
+Param1	1.50
+Param2	34
+Num of Years: 7.25 thru 13.39 of 13.76 total
+
+4.41 Max Sharpe of Market13-FGBL Period6 is Test 0 with STD 1.25 and MA 21
+
+OS PNL: Market13-FGBL Period6
+OS-Sharpe	0.83
+OS-Param1	1.25
+OS-Param2	21
+Num of Years: 13.39 thru 13.76 of 13.76 total
+
+
+0.495 min..Avg I-MaxSharpe is 2.08..+I-Sharpes are 445 of 456 combos or 98%..
++13 Win Markets out of 27..Avg All I-Sharpes is 3.15
+
+
+
+0.495 min..+O-Sharpes are 113 of 114 combos or 99%..
++13 Win Markets out of 27..Avg All O-Sharpes is 0.85
+
