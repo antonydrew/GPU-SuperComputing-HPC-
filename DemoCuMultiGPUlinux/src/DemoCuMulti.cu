@@ -23,7 +23,7 @@
 #define LOOKBACK 1597		// 1597-987-610-377-144-89 fibos rolling optimization historical period
 #define STEP 377			// or 89 fibos step forward in time period for next rolling optimization
 #define NUMI 27				//up to 27 number of markets
-#define STR 2				//number of streams - use 2 to be safe since most GPU's can handle 2 streams if threads are low on each stream
+#define STR 1				//number of streams - use 2 to be safe since most GPU's can handle 2 streams if threads are low on each stream
 #define THR 256				//initial threads - must specify this PARAM - can affect OCCUPANCY or %USE OF GPU
 
 long f_line(FILE *f);
